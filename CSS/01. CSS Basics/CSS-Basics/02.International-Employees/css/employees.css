@@ -1,0 +1,41 @@
+﻿body {
+    color:black;
+    font-size:18px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table tr:nth-child(2n+1){
+    background-color:white;
+}
+table tr:nth-child(2n){
+    background-color:rgb(236, 236, 236);
+}
+
+#col1{
+    width:180px;
+}
+
+#col2, #col3{
+    width:150px;
+}
+
+#col4{
+    width:120px;
+}
+
+th {
+    color:white;
+    background-color: green;
+    font-weight:normal;
+    padding:5px;
+}
+
+td{
+    padding:5px;
+}
+
+table, td, th {
+    border: 1px solid rgb(236, 236, 236);
+    border-collapse:collapse;
+}

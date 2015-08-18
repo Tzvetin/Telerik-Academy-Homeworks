@@ -1,0 +1,58 @@
+﻿body {
+    background-color: dimgray;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:left;
+}
+
+.name:before {
+    margin-right:5px;
+    content:"";
+    border-radius:50%;
+    width:15px;
+    height:15px;
+    background-color: mediumseagreen;
+    display:inline-block;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+.gold{
+    color: lightgoldenrodyellow;
+}
+
+.gray{
+    color: lightgray;
+}
+.orange{
+    color:orange;
+    font-weight:bold;
+}
+
+#col1 {
+    width:150px;
+}
+
+td {
+    vertical-align: top;
+    padding-top: 15px;
+}
+
+table td:nth-child(1){
+    font-style:italic;
+    color:white;
+}
+
+th {
+    color:lightgray;
+    font-size:1.5em;
+    font-weight:normal;
+}
+
+a {
+    color: blanchedalmond;
+    text-decoration: none;
+}

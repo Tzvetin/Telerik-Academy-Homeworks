@@ -1,0 +1,6 @@
+D:\Downloads\TA\CSS\Exam\task2\bin\task2.dll.config
+D:\Downloads\TA\CSS\Exam\task2\bin\task2.dll
+D:\Downloads\TA\CSS\Exam\task2\bin\task2.pdb
+D:\Downloads\TA\CSS\Exam\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\CSS\Exam\task2\obj\Debug\task2.dll
+D:\Downloads\TA\CSS\Exam\task2\obj\Debug\task2.pdb

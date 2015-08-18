@@ -1,0 +1,23 @@
+﻿#wrapper {
+  position: relative;
+}
+nav ul {
+  list-style-type: none;
+}
+nav ul li {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+}
+nav ul li:hover img {
+  width: 600px;
+  height: 350px;
+  position: absolute;
+  top: 150px;
+  left: 40px;
+}
+nav ul img {
+  width: 200px;
+  height: 100px;
+}
+/*# sourceMappingURL=Web Gallery.css.map */

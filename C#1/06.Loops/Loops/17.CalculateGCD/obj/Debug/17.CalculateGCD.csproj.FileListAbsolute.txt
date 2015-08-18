@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb

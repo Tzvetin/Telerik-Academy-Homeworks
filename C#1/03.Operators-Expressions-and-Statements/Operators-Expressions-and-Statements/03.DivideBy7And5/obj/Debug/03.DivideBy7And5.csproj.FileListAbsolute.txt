@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb

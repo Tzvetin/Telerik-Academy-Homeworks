@@ -1,0 +1,6 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\TelerikLogo\bin\Debug\TelerikLogo.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\TelerikLogo\bin\Debug\TelerikLogo.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\TelerikLogo\bin\Debug\TelerikLogo.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\TelerikLogo\obj\Debug\TelerikLogo.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\TelerikLogo\obj\Debug\TelerikLogo.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\TelerikLogo\obj\Debug\TelerikLogo.pdb

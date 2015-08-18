@@ -1,0 +1,8 @@
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

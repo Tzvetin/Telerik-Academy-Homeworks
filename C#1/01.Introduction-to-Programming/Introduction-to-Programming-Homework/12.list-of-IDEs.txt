@@ -1,0 +1,19 @@
+1. Microsoft Visual Studio
+
+This is Microsoft's own IDE for Windows application development. Visual Studio products cover languages like C++, C# and VB.NET. You are able to develop for the Windows x86, Windows RT, and Windows Phone. The latest version of Visual Studio is also designed to be optimized for touch, just in case you happen to be writing code on a Microsoft Surface. 
+
+2. Oracle Netbeans
+
+Oracle's Netbeans IDE is aimed mainly at Java developers. Other languages like C/C++, Ruby, HTML5, PHP and more are supported as well. Netbeans is extremely extensible via its plugin-centric design, allowing you to add additional language syntax support and libraries, among other things. Netbeans is free under the Common Development and Distribution License (CDDL) v1.0 and GNU General Public License (GPL) v2.
+
+3. Eclipse
+
+Eclipse IDE is quite comprehensive and even similar to Netbeans in a variety of ways, including its use of Java and plugin architecture. However, Eclipse answers to various needs and objectives in software development workflows. Eclipse is free under the terms and conditions of the Eclipse Foundation Software User Agreement unless otherwise specified.
+
+4. Code::Blocks
+
+Code::Blocks is built on the wxWidgets framework and is exceptionally lightweight in size, yet still quite functional and feature-rich IDE. You can load up a number of under-the-hood compiler engines, ranging from GCC and LLVM, to Digital Mars and Open Watcom. Code::Blocks also takes advantage of multi-core compiling, allowing you to get the job done faster. Code::Blocks is distributed under the GPL v3.0 license which means it can be used freely by anyone.
+
+5. Aptana Studio
+
+Aptana is well suited for web and scripting languages. PHP, Ruby on Rails, and Python are supported as well as the likes of Adobe AIR. Even the studio itself is available as a plugin for Eclipse if you prefer the way Aptana handles your work and want to combine it with a more comprehensive IDE. Aptana Studio 3 is free and available solely under the GNU General Public License.

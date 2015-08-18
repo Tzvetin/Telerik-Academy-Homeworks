@@ -1,0 +1,8 @@
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\03.HexadecimalFormat\bin\Debug\03.HexadecimalFormat.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\03.HexadecimalFormat\bin\Debug\03.HexadecimalFormat.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\03.HexadecimalFormat\bin\Debug\03.HexadecimalFormat.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\03.HexadecimalFormat\obj\Debug\03.HexadecimalFormat.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\03.HexadecimalFormat\obj\Debug\03.HexadecimalFormat.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\03.HexadecimalFormat\bin\Debug\03.HexadecimalFormat.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\03.HexadecimalFormat\obj\Debug\03.HexadecimalFormat.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\03.HexadecimalFormat\obj\Debug\03.HexadecimalFormat.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\SevenlandNumbers\bin\Debug\SevenlandNumbers.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\SevenlandNumbers\obj\Debug\SevenlandNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\SevenlandNumbers\obj\Debug\SevenlandNumbers.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\SevenlandNumbers\obj\Debug\SevenlandNumbers.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

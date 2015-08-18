@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\18.TrailingZeroesInNFactorial\bin\Debug\18.TrailingZeroesInNFactorial.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\18.TrailingZeroesInNFactorial\bin\Debug\18.TrailingZeroesInNFactorial.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\18.TrailingZeroesInNFactorial\bin\Debug\18.TrailingZeroesInNFactorial.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\18.TrailingZeroesInNFactorial\obj\Debug\18.TrailingZeroesInNFactorial.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\18.TrailingZeroesInNFactorial\obj\Debug\18.TrailingZeroesInNFactorial.pdb

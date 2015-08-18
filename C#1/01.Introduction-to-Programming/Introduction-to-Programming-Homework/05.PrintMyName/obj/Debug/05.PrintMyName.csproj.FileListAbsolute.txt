@@ -1,0 +1,11 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\Introduction-to-Programming\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\Introduction-to-Programming\05.PrintMyName\bin\Debug\05.PrintMyName.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\Introduction-to-Programming\05.PrintMyName\bin\Debug\05.PrintMyName.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\Introduction-to-Programming\05.PrintMyName\obj\Debug\05.PrintMyName.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\Introduction-to-Programming\05.PrintMyName\obj\Debug\05.PrintMyName.pdb
+D:\Downloads\TA\C#1\01.Introduction-to-Programming\Introduction-to-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
+D:\Downloads\TA\C#1\01.Introduction-to-Programming\Introduction-to-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.exe
+D:\Downloads\TA\C#1\01.Introduction-to-Programming\Introduction-to-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.pdb
+C:\Users\Mladen\Desktop\Homeworks\Telerik-Academy-Homeworks\C#1\01.Introduction-to-Programming\Introduction-to-Programming-Homework\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
+C:\Users\Mladen\Desktop\Homeworks\Telerik-Academy-Homeworks\C#1\01.Introduction-to-Programming\Introduction-to-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.exe
+C:\Users\Mladen\Desktop\Homeworks\Telerik-Academy-Homeworks\C#1\01.Introduction-to-Programming\Introduction-to-Programming-Homework\05.PrintMyName\obj\Debug\05.PrintMyName.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\16.AdvancedBitsExchange\bin\Debug\16.AdvancedBitsExchange.exe.config
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\16.AdvancedBitsExchange\bin\Debug\16.AdvancedBitsExchange.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\16.AdvancedBitsExchange\bin\Debug\16.AdvancedBitsExchange.pdb
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\16.AdvancedBitsExchange\obj\Debug\16.AdvancedBitsExchange.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\16.AdvancedBitsExchange\obj\Debug\16.AdvancedBitsExchange.pdb

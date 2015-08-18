@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb

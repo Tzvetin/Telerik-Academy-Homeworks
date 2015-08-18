@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.exe.config
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.exe
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.pdb
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\05.TheBiggestOf3Numbers\obj\Debug\05.TheBiggestOf3Numbers.exe
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\05.TheBiggestOf3Numbers\obj\Debug\05.TheBiggestOf3Numbers.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb

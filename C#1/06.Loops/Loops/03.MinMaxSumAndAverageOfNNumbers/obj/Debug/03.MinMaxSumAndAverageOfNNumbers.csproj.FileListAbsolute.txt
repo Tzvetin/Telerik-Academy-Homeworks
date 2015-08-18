@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb

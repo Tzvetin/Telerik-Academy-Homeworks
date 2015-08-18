@@ -1,0 +1,6 @@
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\FormulaBit1\bin\Debug\FormulaBit1.exe.config
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\FormulaBit1\bin\Debug\FormulaBit1.exe
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\FormulaBit1\bin\Debug\FormulaBit1.pdb
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\FormulaBit1\obj\Debug\FormulaBit1.csprojResolveAssemblyReference.cache
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\FormulaBit1\obj\Debug\FormulaBit1.exe
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\FormulaBit1\obj\Debug\FormulaBit1.pdb

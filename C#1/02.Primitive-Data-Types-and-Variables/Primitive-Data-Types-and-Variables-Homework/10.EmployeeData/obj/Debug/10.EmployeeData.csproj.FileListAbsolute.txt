@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

@@ -1,0 +1,8 @@
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

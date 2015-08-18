@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\09. MatrixOfNumbers\obj\Debug\09. MatrixOfNumbers.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#1\06.Loops\Loops\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.pdb

@@ -1,0 +1,3 @@
+.NET is an application development framework developed by Microsoft. It contains a large class library known as Framework Class Library (FCL) offering a range of functionalities.
+Programs written for .NET Framework execute in a software environment known as Common Language Runtime (CLR).
+C# is a strong Object Oriented programming language developed by Microsoft that is mostly built on the .NET framework.

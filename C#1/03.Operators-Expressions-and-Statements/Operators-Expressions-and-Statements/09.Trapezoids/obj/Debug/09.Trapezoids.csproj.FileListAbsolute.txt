@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

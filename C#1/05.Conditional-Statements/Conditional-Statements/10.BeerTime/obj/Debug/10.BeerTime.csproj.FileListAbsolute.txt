@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\10.BeerTime\bin\Debug\10.BeerTime.exe
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\10.BeerTime\bin\Debug\10.BeerTime.pdb
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\10.BeerTime\obj\Debug\10.BeerTime.exe
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\10.BeerTime\obj\Debug\10.BeerTime.pdb

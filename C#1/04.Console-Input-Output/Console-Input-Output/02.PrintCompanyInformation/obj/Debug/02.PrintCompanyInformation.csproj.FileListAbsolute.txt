@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

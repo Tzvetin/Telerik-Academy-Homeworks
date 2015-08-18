@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb

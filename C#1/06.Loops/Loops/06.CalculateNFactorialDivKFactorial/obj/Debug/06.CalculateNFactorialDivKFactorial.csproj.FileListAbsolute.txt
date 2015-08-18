@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\06.CalculateNFactorialDivKFactorial\bin\Debug\06.CalculateNFactorialDivKFactorial.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\06.CalculateNFactorialDivKFactorial\obj\Debug\06.CalculateNFactorialDivKFactorial.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#1\06.Loops\Loops\06.CalculateNFactorialDivKFactorial\bin\Debug\06.CalculateNFactorialDivKFactorial.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\06.CalculateNFactorialDivKFactorial\bin\Debug\06.CalculateNFactorialDivKFactorial.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\06.CalculateNFactorialDivKFactorial\obj\Debug\06.CalculateNFactorialDivKFactorial.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\06.CalculateNFactorialDivKFactorial\obj\Debug\06.CalculateNFactorialDivKFactorial.pdb

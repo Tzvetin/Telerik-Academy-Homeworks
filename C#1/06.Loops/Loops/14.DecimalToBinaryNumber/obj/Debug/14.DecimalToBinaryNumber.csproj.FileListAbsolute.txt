@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.pdb

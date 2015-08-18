@@ -1,0 +1,9 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\ANacci\bin\Debug\ANacci.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\ANacci\bin\Debug\ANacci.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\ANacci\bin\Debug\ANacci.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\ANacci\obj\Debug\ANacci.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\ANacci\obj\Debug\ANacci.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\ANacci\obj\Debug\ANacci.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\ANacci\bin\Debug\ANacci.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\ANacci\obj\Debug\ANacci.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\ANacci\obj\Debug\ANacci.pdb

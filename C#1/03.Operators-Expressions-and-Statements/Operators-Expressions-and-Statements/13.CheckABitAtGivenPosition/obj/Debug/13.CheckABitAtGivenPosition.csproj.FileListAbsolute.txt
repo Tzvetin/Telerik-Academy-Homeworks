@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe.config
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.pdb
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.pdb

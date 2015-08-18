@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.pdb

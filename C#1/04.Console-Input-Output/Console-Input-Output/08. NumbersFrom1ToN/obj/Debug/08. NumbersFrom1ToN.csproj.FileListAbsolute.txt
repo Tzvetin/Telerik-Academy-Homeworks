@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\08. NumbersFrom1ToN\bin\Debug\_08.NumbersFrom1ToN.exe.config
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\08. NumbersFrom1ToN\bin\Debug\_08.NumbersFrom1ToN.exe
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\08. NumbersFrom1ToN\bin\Debug\_08.NumbersFrom1ToN.pdb
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\08. NumbersFrom1ToN\obj\Debug\_08.NumbersFrom1ToN.exe
+D:\Downloads\TA\C#1\04.Console-Input-Output\Console-Input-Output\08. NumbersFrom1ToN\obj\Debug\_08.NumbersFrom1ToN.pdb

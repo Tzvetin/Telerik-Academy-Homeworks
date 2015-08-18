@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\12.RandomizeTheNumbers1ToN\obj\Debug\12.RandomizeTheNumbers1ToN.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\12.RandomizeTheNumbers1ToN\obj\Debug\12.RandomizeTheNumbers1ToN.pdb

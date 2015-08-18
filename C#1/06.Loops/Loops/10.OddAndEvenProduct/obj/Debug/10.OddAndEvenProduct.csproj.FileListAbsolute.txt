@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#1\06.Loops\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

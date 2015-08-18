@@ -1,0 +1,6 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\X–Expression\bin\Debug\X–Expression.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\X–Expression\bin\Debug\X–Expression.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\X–Expression\bin\Debug\X–Expression.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\X–Expression\obj\Debug\X–Expression.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\X–Expression\obj\Debug\X–Expression.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\X–Expression\obj\Debug\X–Expression.pdb

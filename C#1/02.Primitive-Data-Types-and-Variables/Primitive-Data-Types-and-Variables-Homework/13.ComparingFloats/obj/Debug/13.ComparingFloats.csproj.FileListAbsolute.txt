@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

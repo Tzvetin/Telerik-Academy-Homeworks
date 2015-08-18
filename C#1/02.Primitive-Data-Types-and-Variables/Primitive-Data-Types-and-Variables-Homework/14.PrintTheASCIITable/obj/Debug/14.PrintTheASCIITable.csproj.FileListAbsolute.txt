@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\3-6-9\bin\Debug\3-6-9.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\3-6-9\bin\Debug\3-6-9.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\3-6-9\bin\Debug\3-6-9.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\3-6-9\obj\Debug\3-6-9.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\3-6-9\obj\Debug\3-6-9.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\3-6-9\obj\Debug\3-6-9.pdb

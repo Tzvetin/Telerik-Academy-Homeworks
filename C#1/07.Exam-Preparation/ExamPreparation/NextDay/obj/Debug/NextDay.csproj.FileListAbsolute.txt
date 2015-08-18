@@ -1,0 +1,6 @@
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\NextDay\bin\Debug\NextDay.exe.config
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\NextDay\bin\Debug\NextDay.exe
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\NextDay\bin\Debug\NextDay.pdb
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\NextDay\obj\Debug\NextDay.csprojResolveAssemblyReference.cache
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\NextDay\obj\Debug\NextDay.exe
+c:\users\mladen\documents\visual studio 2013\Projects\ExamPreparation\NextDay\obj\Debug\NextDay.pdb

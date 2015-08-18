@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#1\Exam\03.SaddyKopper\bin\Debug\03.SaddyKopper.exe.config
+D:\Downloads\TA\C#1\Exam\03.SaddyKopper\bin\Debug\03.SaddyKopper.exe
+D:\Downloads\TA\C#1\Exam\03.SaddyKopper\bin\Debug\03.SaddyKopper.pdb
+D:\Downloads\TA\C#1\Exam\03.SaddyKopper\obj\Debug\03.SaddyKopper.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#1\Exam\03.SaddyKopper\obj\Debug\03.SaddyKopper.exe
+D:\Downloads\TA\C#1\Exam\03.SaddyKopper\obj\Debug\03.SaddyKopper.pdb

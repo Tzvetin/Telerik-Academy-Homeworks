@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

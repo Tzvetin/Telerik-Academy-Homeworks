@@ -1,0 +1,6 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb

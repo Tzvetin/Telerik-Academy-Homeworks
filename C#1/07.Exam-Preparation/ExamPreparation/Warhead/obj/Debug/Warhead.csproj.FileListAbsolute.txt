@@ -1,0 +1,6 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\Warhead\bin\Debug\Warhead.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\Warhead\bin\Debug\Warhead.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\Warhead\bin\Debug\Warhead.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\Warhead\obj\Debug\Warhead.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\Warhead\obj\Debug\Warhead.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\Warhead\obj\Debug\Warhead.pdb

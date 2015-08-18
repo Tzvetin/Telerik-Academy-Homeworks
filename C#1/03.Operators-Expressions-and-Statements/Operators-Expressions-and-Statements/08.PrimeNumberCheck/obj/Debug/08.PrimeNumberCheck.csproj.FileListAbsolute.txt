@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb

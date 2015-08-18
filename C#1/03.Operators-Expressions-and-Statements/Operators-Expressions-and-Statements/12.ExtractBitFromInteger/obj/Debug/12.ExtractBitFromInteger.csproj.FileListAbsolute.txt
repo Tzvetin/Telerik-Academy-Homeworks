@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb

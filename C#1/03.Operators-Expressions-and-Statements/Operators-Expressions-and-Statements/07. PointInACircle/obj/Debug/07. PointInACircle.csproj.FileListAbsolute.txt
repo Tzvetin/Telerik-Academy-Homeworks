@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\07. PointInACircle\bin\Debug\_07.PointInACircle.exe.config
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\07. PointInACircle\bin\Debug\_07.PointInACircle.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\07. PointInACircle\bin\Debug\_07.PointInACircle.pdb
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\07. PointInACircle\obj\Debug\_07.PointInACircle.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\07. PointInACircle\obj\Debug\_07.PointInACircle.pdb

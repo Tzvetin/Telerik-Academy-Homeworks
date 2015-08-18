@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+D:\Downloads\TA\C#1\05.Conditional-Statements\Conditional-Statements\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb

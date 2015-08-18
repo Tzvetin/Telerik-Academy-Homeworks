@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.pdb

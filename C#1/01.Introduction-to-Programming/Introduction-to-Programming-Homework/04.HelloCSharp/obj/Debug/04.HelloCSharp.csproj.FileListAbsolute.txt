@@ -1,0 +1,9 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\Introduction-to-Programming\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\Introduction-to-Programming\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\Introduction-to-Programming\04.HelloCSharp\bin\Debug\04.HelloCSharp.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\Introduction-to-Programming\04.HelloCSharp\obj\Debug\04.HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\Introduction-to-Programming\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\Introduction-to-Programming\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
+D:\Downloads\TA\C#1\01.Introduction-to-Programming\Introduction-to-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
+D:\Downloads\TA\C#1\01.Introduction-to-Programming\Introduction-to-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
+D:\Downloads\TA\C#1\01.Introduction-to-Programming\Introduction-to-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb

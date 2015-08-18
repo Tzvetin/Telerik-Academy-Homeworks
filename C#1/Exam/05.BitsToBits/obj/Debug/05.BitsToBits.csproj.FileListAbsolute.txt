@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#1\Exam\05.BitsToBits\bin\Debug\05.BitsToBits.exe.config
+D:\Downloads\TA\C#1\Exam\05.BitsToBits\bin\Debug\05.BitsToBits.exe
+D:\Downloads\TA\C#1\Exam\05.BitsToBits\bin\Debug\05.BitsToBits.pdb
+D:\Downloads\TA\C#1\Exam\05.BitsToBits\obj\Debug\05.BitsToBits.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#1\Exam\05.BitsToBits\obj\Debug\05.BitsToBits.exe
+D:\Downloads\TA\C#1\Exam\05.BitsToBits\obj\Debug\05.BitsToBits.pdb

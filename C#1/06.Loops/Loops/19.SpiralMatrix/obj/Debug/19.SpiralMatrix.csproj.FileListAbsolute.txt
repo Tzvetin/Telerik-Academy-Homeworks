@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb

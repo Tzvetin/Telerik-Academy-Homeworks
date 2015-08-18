@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\15.BitsExchange\obj\Debug\15.BitsExchange.pdb

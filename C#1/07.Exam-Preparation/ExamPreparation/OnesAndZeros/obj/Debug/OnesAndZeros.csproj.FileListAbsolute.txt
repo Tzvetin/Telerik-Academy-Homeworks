@@ -1,0 +1,6 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\OnesAndZeros\bin\Debug\OnesAndZeros.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\OnesAndZeros\bin\Debug\OnesAndZeros.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\OnesAndZeros\bin\Debug\OnesAndZeros.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\OnesAndZeros\obj\Debug\OnesAndZeros.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\OnesAndZeros\obj\Debug\OnesAndZeros.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\OnesAndZeros\obj\Debug\OnesAndZeros.csprojResolveAssemblyReference.cache

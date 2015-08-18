@@ -1,0 +1,9 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\ExamPreparation\OddNumber\obj\Debug\OddNumber.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\OddNumber\obj\Debug\OddNumber.pdb

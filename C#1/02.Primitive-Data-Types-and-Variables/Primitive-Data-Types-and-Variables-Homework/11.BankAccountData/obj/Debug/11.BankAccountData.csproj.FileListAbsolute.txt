@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

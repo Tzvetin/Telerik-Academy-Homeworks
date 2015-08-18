@@ -1,0 +1,8 @@
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\Primitive-Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+D:\Downloads\TA\C#1\02.Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables-Homework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

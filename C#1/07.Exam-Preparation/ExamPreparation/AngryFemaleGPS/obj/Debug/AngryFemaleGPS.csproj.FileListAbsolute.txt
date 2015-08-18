@@ -1,0 +1,6 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\AngryFemaleGPS\bin\Debug\AngryFemaleGPS.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#1\ExamPreparation\AngryFemaleGPS\obj\Debug\AngryFemaleGPS.pdb

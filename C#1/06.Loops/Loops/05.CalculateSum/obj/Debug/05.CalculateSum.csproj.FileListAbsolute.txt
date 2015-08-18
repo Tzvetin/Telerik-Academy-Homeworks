@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#1\06.Loops\Loops\05.CalculateSum\bin\Debug\05.CalculateSum.exe.config
+D:\Downloads\TA\C#1\06.Loops\Loops\05.CalculateSum\bin\Debug\05.CalculateSum.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\05.CalculateSum\bin\Debug\05.CalculateSum.pdb
+D:\Downloads\TA\C#1\06.Loops\Loops\05.CalculateSum\obj\Debug\05.CalculateSum.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#1\06.Loops\Loops\05.CalculateSum\obj\Debug\05.CalculateSum.exe
+D:\Downloads\TA\C#1\06.Loops\Loops\05.CalculateSum\obj\Debug\05.CalculateSum.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe.config
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.pdb
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.pdb

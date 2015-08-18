@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\10.InsideCircleOutsideOfRectangle\bin\Debug\10.InsideCircleOutsideOfRectangle.exe.config
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\10.InsideCircleOutsideOfRectangle\bin\Debug\10.InsideCircleOutsideOfRectangle.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\10.InsideCircleOutsideOfRectangle\bin\Debug\10.InsideCircleOutsideOfRectangle.pdb
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\10.InsideCircleOutsideOfRectangle\obj\Debug\10.InsideCircleOutsideOfRectangle.exe
+D:\Downloads\TA\C#1\03.Operators-Expressions-and-Statements\Operators-Expressions-and-Statements\10.InsideCircleOutsideOfRectangle\obj\Debug\10.InsideCircleOutsideOfRectangle.pdb

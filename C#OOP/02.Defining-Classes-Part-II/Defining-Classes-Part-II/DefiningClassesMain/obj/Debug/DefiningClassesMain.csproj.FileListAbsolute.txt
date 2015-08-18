@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#OOP\02.Defining-Classes-Part-II\Defining-Classes-Part-II\DefiningClassesMain\bin\Debug\DefiningClassesMain.exe.config
+D:\Downloads\TA\C#OOP\02.Defining-Classes-Part-II\Defining-Classes-Part-II\DefiningClassesMain\obj\Debug\DefiningClassesMain.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#OOP\02.Defining-Classes-Part-II\Defining-Classes-Part-II\DefiningClassesMain\bin\Debug\DefiningClassesMain.exe
+D:\Downloads\TA\C#OOP\02.Defining-Classes-Part-II\Defining-Classes-Part-II\DefiningClassesMain\bin\Debug\DefiningClassesMain.pdb
+D:\Downloads\TA\C#OOP\02.Defining-Classes-Part-II\Defining-Classes-Part-II\DefiningClassesMain\obj\Debug\DefiningClassesMain.exe
+D:\Downloads\TA\C#OOP\02.Defining-Classes-Part-II\Defining-Classes-Part-II\DefiningClassesMain\obj\Debug\DefiningClassesMain.pdb

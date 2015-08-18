@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\06.DivisibleBy7And3\bin\Debug\06.DivisibleBy7And3.exe.config
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\06.DivisibleBy7And3\bin\Debug\06.DivisibleBy7And3.exe
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\06.DivisibleBy7And3\bin\Debug\06.DivisibleBy7And3.pdb
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\06.DivisibleBy7And3\obj\Debug\06.DivisibleBy7And3.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\06.DivisibleBy7And3\obj\Debug\06.DivisibleBy7And3.exe
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\06.DivisibleBy7And3\obj\Debug\06.DivisibleBy7And3.pdb

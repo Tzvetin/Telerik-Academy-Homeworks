@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#OOP\06.Common-Type-System\Common-Type-System\05.64BitArray\bin\Debug\05.64BitArray.exe.config
+D:\Downloads\TA\C#OOP\06.Common-Type-System\Common-Type-System\05.64BitArray\bin\Debug\05.64BitArray.exe
+D:\Downloads\TA\C#OOP\06.Common-Type-System\Common-Type-System\05.64BitArray\bin\Debug\05.64BitArray.pdb
+D:\Downloads\TA\C#OOP\06.Common-Type-System\Common-Type-System\05.64BitArray\obj\Debug\05.64BitArray.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#OOP\06.Common-Type-System\Common-Type-System\05.64BitArray\obj\Debug\05.64BitArray.exe
+D:\Downloads\TA\C#OOP\06.Common-Type-System\Common-Type-System\05.64BitArray\obj\Debug\05.64BitArray.pdb

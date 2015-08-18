@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\02.BankAccounts\bin\Debug\02.BankAccounts.exe.config
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\02.BankAccounts\bin\Debug\02.BankAccounts.exe
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\02.BankAccounts\bin\Debug\02.BankAccounts.pdb
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\02.BankAccounts\obj\Debug\02.BankAccounts.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\02.BankAccounts\obj\Debug\02.BankAccounts.exe
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\02.BankAccounts\obj\Debug\02.BankAccounts.pdb

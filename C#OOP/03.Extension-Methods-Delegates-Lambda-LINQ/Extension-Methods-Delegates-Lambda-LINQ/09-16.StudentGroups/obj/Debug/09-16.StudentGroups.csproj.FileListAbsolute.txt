@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\09-16.StudentGroups\bin\Debug\09-16.StudentGroups.exe.config
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\09-16.StudentGroups\bin\Debug\09-16.StudentGroups.exe
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\09-16.StudentGroups\bin\Debug\09-16.StudentGroups.pdb
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\09-16.StudentGroups\obj\Debug\09-16.StudentGroups.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\09-16.StudentGroups\obj\Debug\09-16.StudentGroups.exe
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\09-16.StudentGroups\obj\Debug\09-16.StudentGroups.pdb

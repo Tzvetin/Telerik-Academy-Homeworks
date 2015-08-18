@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\08.Events\bin\Debug\08.Events.exe.config
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\08.Events\bin\Debug\08.Events.exe
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\08.Events\bin\Debug\08.Events.pdb
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\08.Events\obj\Debug\08.Events.exe
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\08.Events\obj\Debug\08.Events.pdb

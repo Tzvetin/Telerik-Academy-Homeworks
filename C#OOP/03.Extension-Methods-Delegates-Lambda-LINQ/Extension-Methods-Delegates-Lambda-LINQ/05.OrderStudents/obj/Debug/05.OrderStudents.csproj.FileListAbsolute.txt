@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\05.OrderStudents\bin\Debug\05.OrderStudents.exe.config
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\05.OrderStudents\bin\Debug\05.OrderStudents.exe
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\05.OrderStudents\bin\Debug\05.OrderStudents.pdb
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\05.OrderStudents\obj\Debug\05.OrderStudents.exe
+D:\Downloads\TA\C#OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Extension-Methods-Delegates-Lambda-LINQ\05.OrderStudents\obj\Debug\05.OrderStudents.pdb

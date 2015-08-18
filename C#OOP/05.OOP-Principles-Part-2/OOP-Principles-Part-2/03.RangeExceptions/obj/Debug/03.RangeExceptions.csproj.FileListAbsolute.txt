@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\03.RangeExceptions\bin\Debug\03.RangeExceptions.exe.config
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\03.RangeExceptions\obj\Debug\03.RangeExceptions.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\03.RangeExceptions\bin\Debug\03.RangeExceptions.exe
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\03.RangeExceptions\bin\Debug\03.RangeExceptions.pdb
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\03.RangeExceptions\obj\Debug\03.RangeExceptions.exe
+D:\Downloads\TA\C#OOP\05.OOP-Principles-Part-2\OOP-Principles-Part-2\03.RangeExceptions\obj\Debug\03.RangeExceptions.pdb

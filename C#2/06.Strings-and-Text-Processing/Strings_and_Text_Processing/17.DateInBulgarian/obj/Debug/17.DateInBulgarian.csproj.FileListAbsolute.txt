@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\17.DateInBulgarian\obj\Debug\17.DateInBulgarian.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\17.DateInBulgarian\obj\Debug\17.DateInBulgarian.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\12.ParseURL\bin\Debug\12.ParseURL.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\12.ParseURL\bin\Debug\12.ParseURL.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\12.ParseURL\bin\Debug\12.ParseURL.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\12.ParseURL\obj\Debug\12.ParseURL.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\12.ParseURL\obj\Debug\12.ParseURL.pdb

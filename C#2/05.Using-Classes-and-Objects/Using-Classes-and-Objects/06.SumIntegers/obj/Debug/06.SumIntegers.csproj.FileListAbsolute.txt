@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\06.SumIntegers\bin\Debug\06.SumIntegers.exe.config
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\06.SumIntegers\bin\Debug\06.SumIntegers.exe
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\06.SumIntegers\bin\Debug\06.SumIntegers.pdb
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\06.SumIntegers\obj\Debug\06.SumIntegers.exe
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\06.SumIntegers\obj\Debug\06.SumIntegers.pdb

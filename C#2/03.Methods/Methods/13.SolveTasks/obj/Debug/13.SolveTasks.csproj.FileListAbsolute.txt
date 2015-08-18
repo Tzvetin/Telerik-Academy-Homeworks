@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\03.Methods\Methods\13.SolveTasks\bin\Debug\13.SolveTasks.exe.config
+D:\Downloads\TA\C#2\03.Methods\Methods\13.SolveTasks\bin\Debug\13.SolveTasks.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\13.SolveTasks\bin\Debug\13.SolveTasks.pdb
+D:\Downloads\TA\C#2\03.Methods\Methods\13.SolveTasks\obj\Debug\13.SolveTasks.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\13.SolveTasks\obj\Debug\13.SolveTasks.pdb

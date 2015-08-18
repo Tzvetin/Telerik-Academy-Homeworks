@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\24.OrderWords\bin\Debug\24.OrderWords.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\24.OrderWords\bin\Debug\24.OrderWords.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\24.OrderWords\bin\Debug\24.OrderWords.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\24.OrderWords\obj\Debug\24.OrderWords.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\24.OrderWords\obj\Debug\24.OrderWords.pdb

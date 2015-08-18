@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\04.Numeral-Systems\Numeral-Systems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe.config
+D:\Downloads\TA\C#2\04.Numeral-Systems\Numeral-Systems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe
+D:\Downloads\TA\C#2\04.Numeral-Systems\Numeral-Systems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.pdb
+D:\Downloads\TA\C#2\04.Numeral-Systems\Numeral-Systems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.exe
+D:\Downloads\TA\C#2\04.Numeral-Systems\Numeral-Systems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.pdb

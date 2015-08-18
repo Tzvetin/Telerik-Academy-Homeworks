@@ -1,0 +1,9 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Indices\bin\Debug\Indices.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Indices\bin\Debug\Indices.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Indices\bin\Debug\Indices.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Indices\obj\Debug\Indices.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Indices\obj\Debug\Indices.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Indices\obj\Debug\Indices.pdb
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\Indices\bin\Debug\Indices.exe.config
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\Indices\obj\Debug\Indices.exe
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\Indices\obj\Debug\Indices.pdb

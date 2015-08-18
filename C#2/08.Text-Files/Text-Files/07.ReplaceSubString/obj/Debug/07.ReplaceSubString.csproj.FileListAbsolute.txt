@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\07.ReplaceSubString\obj\Debug\07.ReplaceSubString.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\07.ReplaceSubString\obj\Debug\07.ReplaceSubString.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\01.Arrays\Arrays\19.PermutationsOfSet\bin\Debug\19.PermutationsOfSet.exe.config
+D:\Downloads\TA\C#2\01.Arrays\Arrays\19.PermutationsOfSet\bin\Debug\19.PermutationsOfSet.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\19.PermutationsOfSet\bin\Debug\19.PermutationsOfSet.pdb
+D:\Downloads\TA\C#2\01.Arrays\Arrays\19.PermutationsOfSet\obj\Debug\19.PermutationsOfSet.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\19.PermutationsOfSet\obj\Debug\19.PermutationsOfSet.pdb

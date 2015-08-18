@@ -1,0 +1,6 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\SpecialValue\bin\Debug\SpecialValue.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\SpecialValue\bin\Debug\SpecialValue.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\SpecialValue\bin\Debug\SpecialValue.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\SpecialValue\obj\Debug\SpecialValue.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\SpecialValue\obj\Debug\SpecialValue.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\SpecialValue\obj\Debug\SpecialValue.pdb

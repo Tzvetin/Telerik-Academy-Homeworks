@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\05.ParseTags\bin\Debug\05.ParseTags.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\05.ParseTags\bin\Debug\05.ParseTags.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\05.ParseTags\bin\Debug\05.ParseTags.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\05.ParseTags\obj\Debug\05.ParseTags.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\05.ParseTags\obj\Debug\05.ParseTags.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\05.ParseTags\obj\Debug\05.ParseTags.pdb

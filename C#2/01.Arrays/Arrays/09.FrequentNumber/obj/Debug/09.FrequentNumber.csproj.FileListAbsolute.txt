@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\01.Arrays\Arrays\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe.config
+D:\Downloads\TA\C#2\01.Arrays\Arrays\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\09.FrequentNumber\bin\Debug\09.FrequentNumber.pdb
+D:\Downloads\TA\C#2\01.Arrays\Arrays\09.FrequentNumber\obj\Debug\09.FrequentNumber.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\09.FrequentNumber\obj\Debug\09.FrequentNumber.pdb

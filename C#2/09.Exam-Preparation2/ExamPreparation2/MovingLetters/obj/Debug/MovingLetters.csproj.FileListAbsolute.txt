@@ -1,0 +1,5 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\MovingLetters\bin\Debug\MovingLetters.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\MovingLetters\bin\Debug\MovingLetters.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\MovingLetters\bin\Debug\MovingLetters.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\MovingLetters\obj\Debug\MovingLetters.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\MovingLetters\obj\Debug\MovingLetters.pdb

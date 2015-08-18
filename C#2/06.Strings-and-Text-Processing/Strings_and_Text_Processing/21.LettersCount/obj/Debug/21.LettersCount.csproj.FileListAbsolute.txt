@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\21.LettersCount\bin\Debug\21.LettersCount.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\21.LettersCount\bin\Debug\21.LettersCount.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\21.LettersCount\bin\Debug\21.LettersCount.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\21.LettersCount\obj\Debug\21.LettersCount.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\21.LettersCount\obj\Debug\21.LettersCount.pdb

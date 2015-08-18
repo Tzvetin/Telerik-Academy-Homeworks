@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#2\03.Methods\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe.config
+D:\Downloads\TA\C#2\03.Methods\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#2\03.Methods\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.pdb
+D:\Downloads\TA\C#2\03.Methods\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.pdb

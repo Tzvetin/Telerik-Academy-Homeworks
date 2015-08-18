@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\06.StringLength\bin\Debug\06.StringLength.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\06.StringLength\bin\Debug\06.StringLength.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\06.StringLength\bin\Debug\06.StringLength.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\06.StringLength\obj\Debug\06.StringLength.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\06.StringLength\obj\Debug\06.StringLength.pdb

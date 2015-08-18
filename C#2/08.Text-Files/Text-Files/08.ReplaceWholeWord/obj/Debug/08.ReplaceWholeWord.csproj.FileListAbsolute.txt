@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\08.ReplaceWholeWord\obj\Debug\08.ReplaceWholeWord.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\08.ReplaceWholeWord\obj\Debug\08.ReplaceWholeWord.pdb

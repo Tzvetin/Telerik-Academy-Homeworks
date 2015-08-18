@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.pdb

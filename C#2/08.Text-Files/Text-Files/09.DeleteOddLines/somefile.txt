@@ -1,0 +1,45 @@
+ This repository
+Gist
+Help
+ 
+  Star 6
+ branch: master  CSharp-Part-2/08. Text Files/README.md
+1 contributor
+Homework: Text Files
+
+Problem 2. Concatenate text files
+Write a program that concatenates two text files into another text file.
+
+The result should be written to another text file.
+
+Assume the files have equal number of lines.
+
+Find an area of size 2 x 2 in the matrix, with a maximal sum of its elements.
+Each of the next N lines contain N numbers separated by space.
+Example:
+input	output
+2 3 3 4 
+3 7 1 2 
+Problem 6. Save sorted names
+Write a program that reads a text file containing a list of strings, sorts them and saves them to another text file.
+
+Ivan 
+Maria 
+Ivan 
+Peter
+
+Ensure it will work with large files (e.g. 100 MB).
+
+Problem 9. Delete odd lines
+Write a program that deletes from given text file all odd lines.
+Problem 10. Extract text from XML
+Write a program that extracts from given XML file all the text without the tags.
+
+
+
+Words contain only the symbols 0�9, a�z, A�Z, _.
+
+Handle all possible exceptions in your methods.
+
+The result should be written in the file result.txt and the words should be sorted by the number of their occurrences in descending order.
+Status API Training Shop Blog About

@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe.config
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\03.DayOfWeek\bin\Debug\03.DayOfWeek.pdb
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\03.DayOfWeek\obj\Debug\03.DayOfWeek.exe
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\03.DayOfWeek\obj\Debug\03.DayOfWeek.pdb

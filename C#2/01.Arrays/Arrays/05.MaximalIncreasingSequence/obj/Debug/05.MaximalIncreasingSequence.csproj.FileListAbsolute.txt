@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\01.Arrays\Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe.config
+D:\Downloads\TA\C#2\01.Arrays\Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.pdb
+D:\Downloads\TA\C#2\01.Arrays\Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.pdb

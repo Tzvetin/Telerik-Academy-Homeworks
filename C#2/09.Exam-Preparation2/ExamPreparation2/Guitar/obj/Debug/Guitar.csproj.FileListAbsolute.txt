@@ -1,0 +1,6 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Guitar\bin\Debug\Guitar.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Guitar\bin\Debug\Guitar.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Guitar\bin\Debug\Guitar.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Guitar\obj\Debug\Guitar.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Guitar\obj\Debug\Guitar.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Guitar\obj\Debug\Guitar.pdb

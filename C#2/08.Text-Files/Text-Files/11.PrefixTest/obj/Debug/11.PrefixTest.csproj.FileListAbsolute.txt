@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\11.PrefixTest\bin\Debug\11.PrefixTest.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\11.PrefixTest\bin\Debug\11.PrefixTest.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\11.PrefixTest\bin\Debug\11.PrefixTest.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\11.PrefixTest\obj\Debug\11.PrefixTest.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\11.PrefixTest\obj\Debug\11.PrefixTest.pdb

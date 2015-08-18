@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\04.SubStringInText\bin\Debug\04.SubStringInText.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\04.SubStringInText\bin\Debug\04.SubStringInText.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\04.SubStringInText\bin\Debug\04.SubStringInText.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\04.SubStringInText\obj\Debug\04.SubStringInText.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\04.SubStringInText\obj\Debug\04.SubStringInText.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\05.Workdays\bin\Debug\05.Workdays.exe.config
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\05.Workdays\bin\Debug\05.Workdays.exe
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\05.Workdays\bin\Debug\05.Workdays.pdb
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\05.Workdays\obj\Debug\05.Workdays.exe
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\05.Workdays\obj\Debug\05.Workdays.pdb

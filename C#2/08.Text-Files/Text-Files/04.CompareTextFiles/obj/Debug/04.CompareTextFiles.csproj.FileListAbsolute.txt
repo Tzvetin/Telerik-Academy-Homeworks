@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.pdb

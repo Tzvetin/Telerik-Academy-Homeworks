@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\03.CorrectBrackets\obj\Debug\03.CorrectBrackets.pdb

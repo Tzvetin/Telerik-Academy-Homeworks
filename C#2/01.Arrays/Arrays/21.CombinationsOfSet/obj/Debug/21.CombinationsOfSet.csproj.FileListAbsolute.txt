@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\01.Arrays\Arrays\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.exe.config
+D:\Downloads\TA\C#2\01.Arrays\Arrays\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\21.CombinationsOfSet\bin\Debug\21.CombinationsOfSet.pdb
+D:\Downloads\TA\C#2\01.Arrays\Arrays\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\21.CombinationsOfSet\obj\Debug\21.CombinationsOfSet.pdb

@@ -1,0 +1,7 @@
+Word: the, Count: 32
+Word: for, Count: 6
+Word: music, Count: 5
+Word: Yvette, Count: 3
+Word: today, Count: 1
+Word: methods, Count: 0
+Word: program, Count: 0

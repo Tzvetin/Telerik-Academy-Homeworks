@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Zerg\bin\Debug\Zerg.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Zerg\bin\Debug\Zerg.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Zerg\bin\Debug\Zerg.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Zerg\obj\Debug\Zerg.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Zerg\obj\Debug\Zerg.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\Zerg\obj\Debug\Zerg.pdb

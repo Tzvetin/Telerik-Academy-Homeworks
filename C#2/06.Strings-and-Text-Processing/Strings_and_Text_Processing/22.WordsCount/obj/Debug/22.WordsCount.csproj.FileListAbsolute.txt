@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\22.WordsCount\bin\Debug\22.WordsCount.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\22.WordsCount\bin\Debug\22.WordsCount.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\22.WordsCount\bin\Debug\22.WordsCount.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\22.WordsCount\obj\Debug\22.WordsCount.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\22.WordsCount\obj\Debug\22.WordsCount.pdb

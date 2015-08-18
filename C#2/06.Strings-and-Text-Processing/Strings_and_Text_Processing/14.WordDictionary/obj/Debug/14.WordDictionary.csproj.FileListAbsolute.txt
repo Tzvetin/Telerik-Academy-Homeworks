@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\14.WordDictionary\bin\Debug\14.WordDictionary.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\14.WordDictionary\bin\Debug\14.WordDictionary.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\14.WordDictionary\bin\Debug\14.WordDictionary.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\14.WordDictionary\obj\Debug\14.WordDictionary.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\14.WordDictionary\obj\Debug\14.WordDictionary.pdb

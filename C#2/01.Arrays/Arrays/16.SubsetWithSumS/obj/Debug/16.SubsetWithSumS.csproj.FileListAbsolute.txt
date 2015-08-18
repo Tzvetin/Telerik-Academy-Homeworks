@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\01.Arrays\Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe.config
+D:\Downloads\TA\C#2\01.Arrays\Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.pdb
+D:\Downloads\TA\C#2\01.Arrays\Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.pdb

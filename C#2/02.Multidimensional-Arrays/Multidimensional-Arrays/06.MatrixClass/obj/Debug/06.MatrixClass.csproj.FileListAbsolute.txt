@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\06.MatrixClass\bin\Debug\06.MatrixClass.exe.config
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\06.MatrixClass\bin\Debug\06.MatrixClass.exe
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\06.MatrixClass\bin\Debug\06.MatrixClass.pdb
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\06.MatrixClass\obj\Debug\06.MatrixClass.exe
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\06.MatrixClass\obj\Debug\06.MatrixClass.pdb

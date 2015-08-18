@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#2\Exam2\02.SumOfDifferences\bin\Debug\02.SumOfDifferences.exe.config
+D:\Downloads\TA\C#2\Exam2\02.SumOfDifferences\bin\Debug\02.SumOfDifferences.exe
+D:\Downloads\TA\C#2\Exam2\02.SumOfDifferences\bin\Debug\02.SumOfDifferences.pdb
+D:\Downloads\TA\C#2\Exam2\02.SumOfDifferences\obj\Debug\02.SumOfDifferences.exe
+D:\Downloads\TA\C#2\Exam2\02.SumOfDifferences\obj\Debug\02.SumOfDifferences.pdb
+D:\Downloads\TA\C#2\Exam2\02.SumOfDifferences\obj\Debug\02.SumOfDifferences.csprojResolveAssemblyReference.cache

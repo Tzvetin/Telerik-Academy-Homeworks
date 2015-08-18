@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\23.SeriesOfLetters\obj\Debug\23.SeriesOfLetters.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\23.SeriesOfLetters\obj\Debug\23.SeriesOfLetters.pdb

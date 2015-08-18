@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\01.Arrays\Arrays\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.exe.config
+D:\Downloads\TA\C#2\01.Arrays\Arrays\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.pdb
+D:\Downloads\TA\C#2\01.Arrays\Arrays\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.pdb

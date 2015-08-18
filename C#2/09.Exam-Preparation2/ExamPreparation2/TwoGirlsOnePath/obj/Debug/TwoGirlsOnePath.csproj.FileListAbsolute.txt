@@ -1,0 +1,9 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.pdb
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.exe.config
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.exe
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.pdb

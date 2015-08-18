@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\07.Exception-Handling\Exception-Handling\03.ReadFileContents\bin\Debug\03.ReadFileContents.exe.config
+D:\Downloads\TA\C#2\07.Exception-Handling\Exception-Handling\03.ReadFileContents\bin\Debug\03.ReadFileContents.exe
+D:\Downloads\TA\C#2\07.Exception-Handling\Exception-Handling\03.ReadFileContents\bin\Debug\03.ReadFileContents.pdb
+D:\Downloads\TA\C#2\07.Exception-Handling\Exception-Handling\03.ReadFileContents\obj\Debug\03.ReadFileContents.exe
+D:\Downloads\TA\C#2\07.Exception-Handling\Exception-Handling\03.ReadFileContents\obj\Debug\03.ReadFileContents.pdb

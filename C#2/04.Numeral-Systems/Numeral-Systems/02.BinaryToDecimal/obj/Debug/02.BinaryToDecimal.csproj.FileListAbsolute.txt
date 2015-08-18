@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\04.Numeral-Systems\Numeral-Systems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe.config
+D:\Downloads\TA\C#2\04.Numeral-Systems\Numeral-Systems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe
+D:\Downloads\TA\C#2\04.Numeral-Systems\Numeral-Systems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.pdb
+D:\Downloads\TA\C#2\04.Numeral-Systems\Numeral-Systems\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.exe
+D:\Downloads\TA\C#2\04.Numeral-Systems\Numeral-Systems\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.pdb

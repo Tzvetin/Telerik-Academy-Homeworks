@@ -1,0 +1,9 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\VariableLengthCodes\bin\Debug\VariableLengthCodes.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\VariableLengthCodes\bin\Debug\VariableLengthCodes.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\VariableLengthCodes\bin\Debug\VariableLengthCodes.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\VariableLengthCodes\obj\Debug\VariableLengthCodes.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\VariableLengthCodes\obj\Debug\VariableLengthCodes.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\VariableLengthCodes\obj\Debug\VariableLengthCodes.pdb
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\VariableLengthCodes\bin\Debug\VariableLengthCodes.exe.config
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\VariableLengthCodes\obj\Debug\VariableLengthCodes.exe
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\VariableLengthCodes\obj\Debug\VariableLengthCodes.pdb

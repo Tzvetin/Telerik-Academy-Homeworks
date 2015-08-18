@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\01.Arrays\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+D:\Downloads\TA\C#2\01.Arrays\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+D:\Downloads\TA\C#2\01.Arrays\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

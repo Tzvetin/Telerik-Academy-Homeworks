@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.pdb

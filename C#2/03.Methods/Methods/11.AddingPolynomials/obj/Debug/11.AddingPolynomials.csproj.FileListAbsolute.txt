@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#2\03.Methods\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe.config
+D:\Downloads\TA\C#2\03.Methods\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.pdb
+D:\Downloads\TA\C#2\03.Methods\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#2\03.Methods\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.pdb

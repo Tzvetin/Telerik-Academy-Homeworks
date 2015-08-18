@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\03.Methods\Methods\14.IntegerCalculations\bin\Debug\14.IntegerCalculations.exe.config
+D:\Downloads\TA\C#2\03.Methods\Methods\14.IntegerCalculations\bin\Debug\14.IntegerCalculations.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\14.IntegerCalculations\bin\Debug\14.IntegerCalculations.pdb
+D:\Downloads\TA\C#2\03.Methods\Methods\14.IntegerCalculations\obj\Debug\14.IntegerCalculations.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\14.IntegerCalculations\obj\Debug\14.IntegerCalculations.pdb

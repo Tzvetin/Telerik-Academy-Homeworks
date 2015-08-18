@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\01.OddLines\bin\Debug\01.OddLines.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\01.OddLines\bin\Debug\01.OddLines.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\01.OddLines\bin\Debug\01.OddLines.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\01.OddLines\obj\Debug\01.OddLines.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\01.OddLines\obj\Debug\01.OddLines.pdb

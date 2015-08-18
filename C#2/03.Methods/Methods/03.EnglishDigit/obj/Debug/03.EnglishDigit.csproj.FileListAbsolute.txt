@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\03.Methods\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe.config
+D:\Downloads\TA\C#2\03.Methods\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.pdb
+D:\Downloads\TA\C#2\03.Methods\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.pdb

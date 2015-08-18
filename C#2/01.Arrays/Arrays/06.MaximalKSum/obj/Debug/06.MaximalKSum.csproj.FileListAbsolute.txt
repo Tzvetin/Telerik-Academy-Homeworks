@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#2\01.Arrays\Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe.config
+D:\Downloads\TA\C#2\01.Arrays\Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.pdb
+D:\Downloads\TA\C#2\01.Arrays\Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.pdb
+D:\Downloads\TA\C#2\01.Arrays\Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.csprojResolveAssemblyReference.cache

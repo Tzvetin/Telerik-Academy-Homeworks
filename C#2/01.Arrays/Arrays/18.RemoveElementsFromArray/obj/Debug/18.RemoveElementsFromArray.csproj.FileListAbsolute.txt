@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\01.Arrays\Arrays\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe.config
+D:\Downloads\TA\C#2\01.Arrays\Arrays\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.pdb
+D:\Downloads\TA\C#2\01.Arrays\Arrays\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.pdb

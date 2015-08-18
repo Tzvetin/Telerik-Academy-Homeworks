@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.pdb

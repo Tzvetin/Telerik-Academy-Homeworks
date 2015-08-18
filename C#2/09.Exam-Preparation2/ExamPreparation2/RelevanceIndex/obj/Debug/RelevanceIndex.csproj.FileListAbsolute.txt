@@ -1,0 +1,7 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\RelevanceIndex\bin\Debug\RelevanceIndex.exe.config
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\RelevanceIndex\bin\Debug\RelevanceIndex.exe.config
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\RelevanceIndex\bin\Debug\RelevanceIndex.exe
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\RelevanceIndex\bin\Debug\RelevanceIndex.pdb
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\RelevanceIndex\obj\Debug\RelevanceIndex.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\RelevanceIndex\obj\Debug\RelevanceIndex.exe
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\RelevanceIndex\obj\Debug\RelevanceIndex.pdb

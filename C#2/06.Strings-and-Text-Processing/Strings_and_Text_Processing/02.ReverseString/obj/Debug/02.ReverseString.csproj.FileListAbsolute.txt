@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\02.ReverseString\bin\Debug\02.ReverseString.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\02.ReverseString\bin\Debug\02.ReverseString.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\02.ReverseString\bin\Debug\02.ReverseString.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\02.ReverseString\obj\Debug\02.ReverseString.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\02.ReverseString\obj\Debug\02.ReverseString.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\13.CountWords\bin\Debug\13.CountWords.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\13.CountWords\bin\Debug\13.CountWords.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\13.CountWords\bin\Debug\13.CountWords.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\13.CountWords\obj\Debug\13.CountWords.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\13.CountWords\obj\Debug\13.CountWords.pdb

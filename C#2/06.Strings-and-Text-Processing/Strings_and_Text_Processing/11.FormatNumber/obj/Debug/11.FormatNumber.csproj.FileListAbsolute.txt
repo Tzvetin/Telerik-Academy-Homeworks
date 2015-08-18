@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\11.FormatNumber\bin\Debug\11.FormatNumber.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\11.FormatNumber\bin\Debug\11.FormatNumber.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\11.FormatNumber\bin\Debug\11.FormatNumber.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\11.FormatNumber\obj\Debug\11.FormatNumber.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\11.FormatNumber\obj\Debug\11.FormatNumber.pdb

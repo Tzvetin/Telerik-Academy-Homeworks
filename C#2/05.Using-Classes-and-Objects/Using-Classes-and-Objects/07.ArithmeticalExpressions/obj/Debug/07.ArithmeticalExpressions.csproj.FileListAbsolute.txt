@@ -1,0 +1,6 @@
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\07.ArithmeticalExpressions\bin\Debug\07.ArithmeticalExpressions.exe.config
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\07.ArithmeticalExpressions\bin\Debug\07.ArithmeticalExpressions.exe
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\07.ArithmeticalExpressions\bin\Debug\07.ArithmeticalExpressions.pdb
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\07.ArithmeticalExpressions\obj\Debug\07.ArithmeticalExpressions.csprojResolveAssemblyReference.cache
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\07.ArithmeticalExpressions\obj\Debug\07.ArithmeticalExpressions.exe
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\07.ArithmeticalExpressions\obj\Debug\07.ArithmeticalExpressions.pdb

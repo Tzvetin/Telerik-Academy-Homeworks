@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

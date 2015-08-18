@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\07.Exception-Handling\Exception-Handling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+D:\Downloads\TA\C#2\07.Exception-Handling\Exception-Handling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+D:\Downloads\TA\C#2\07.Exception-Handling\Exception-Handling\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+D:\Downloads\TA\C#2\07.Exception-Handling\Exception-Handling\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+D:\Downloads\TA\C#2\07.Exception-Handling\Exception-Handling\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb

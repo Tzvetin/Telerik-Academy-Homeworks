@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.exe.config
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.exe
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.pdb
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\03.SequenceNMatrix\obj\Debug\03.SequenceNMatrix.exe
+D:\Downloads\TA\C#2\02.Multidimensional-Arrays\Multidimensional-Arrays\03.SequenceNMatrix\obj\Debug\03.SequenceNMatrix.pdb

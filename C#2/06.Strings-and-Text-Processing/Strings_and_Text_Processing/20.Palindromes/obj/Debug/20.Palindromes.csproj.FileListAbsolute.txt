@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\20.Palindromes\bin\Debug\20.Palindromes.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\20.Palindromes\bin\Debug\20.Palindromes.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\20.Palindromes\bin\Debug\20.Palindromes.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\20.Palindromes\obj\Debug\20.Palindromes.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\20.Palindromes\obj\Debug\20.Palindromes.pdb

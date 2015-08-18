@@ -1,0 +1,9 @@
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\DogeCoin\bin\Debug\DogeCoin.exe.config
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\DogeCoin\bin\Debug\DogeCoin.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\DogeCoin\bin\Debug\DogeCoin.pdb
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\DogeCoin\obj\Debug\DogeCoin.csprojResolveAssemblyReference.cache
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\DogeCoin\obj\Debug\DogeCoin.exe
+C:\Users\Mladen\Documents\Visual Studio 2013\Projects\C#2\ExamPreparation2\DogeCoin\obj\Debug\DogeCoin.pdb
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\DogeCoin\bin\Debug\DogeCoin.exe.config
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\DogeCoin\obj\Debug\DogeCoin.exe
+D:\Downloads\TA\C#2\09.Exam-Preparation2\ExamPreparation2\DogeCoin\obj\Debug\DogeCoin.pdb

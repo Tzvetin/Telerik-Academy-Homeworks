@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\18.ExtractEmails\bin\Debug\18.ExtractEmails.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\18.ExtractEmails\bin\Debug\18.ExtractEmails.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\18.ExtractEmails\bin\Debug\18.ExtractEmails.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\18.ExtractEmails\obj\Debug\18.ExtractEmails.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\18.ExtractEmails\obj\Debug\18.ExtractEmails.pdb

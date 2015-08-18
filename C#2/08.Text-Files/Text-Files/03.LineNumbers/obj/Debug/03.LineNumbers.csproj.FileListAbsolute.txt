@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\03.LineNumbers\bin\Debug\03.LineNumbers.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\03.LineNumbers\bin\Debug\03.LineNumbers.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\03.LineNumbers\bin\Debug\03.LineNumbers.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\03.LineNumbers\obj\Debug\03.LineNumbers.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\03.LineNumbers\obj\Debug\03.LineNumbers.pdb

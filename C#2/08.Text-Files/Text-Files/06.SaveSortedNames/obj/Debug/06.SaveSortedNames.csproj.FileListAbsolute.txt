@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.pdb

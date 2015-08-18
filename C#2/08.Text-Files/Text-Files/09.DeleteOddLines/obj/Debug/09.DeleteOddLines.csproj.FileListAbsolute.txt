@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.pdb

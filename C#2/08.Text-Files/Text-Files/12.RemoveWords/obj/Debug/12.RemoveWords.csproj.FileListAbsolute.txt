@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\12.RemoveWords\bin\Debug\12.RemoveWords.exe.config
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\12.RemoveWords\bin\Debug\12.RemoveWords.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\12.RemoveWords\bin\Debug\12.RemoveWords.pdb
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\12.RemoveWords\obj\Debug\12.RemoveWords.exe
+D:\Downloads\TA\C#2\08.Text-Files\Text-Files\12.RemoveWords\obj\Debug\12.RemoveWords.pdb

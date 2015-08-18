@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe.config
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.pdb
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.exe
+D:\Downloads\TA\C#2\08.Strings-and-Text-Processing\Strings_and_Text_Processing\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe.config
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\04.TriangleSurface\bin\Debug\04.TriangleSurface.pdb
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\04.TriangleSurface\obj\Debug\04.TriangleSurface.exe
+D:\Downloads\TA\C#2\05.Using-Classes-and-Objects\Using-Classes-and-Objects\04.TriangleSurface\obj\Debug\04.TriangleSurface.pdb

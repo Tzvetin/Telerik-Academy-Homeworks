@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\03.Methods\Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.exe.config
+D:\Downloads\TA\C#2\03.Methods\Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.pdb
+D:\Downloads\TA\C#2\03.Methods\Methods\15.NumberCalculations\obj\Debug\15.NumberCalculations.exe
+D:\Downloads\TA\C#2\03.Methods\Methods\15.NumberCalculations\obj\Debug\15.NumberCalculations.pdb

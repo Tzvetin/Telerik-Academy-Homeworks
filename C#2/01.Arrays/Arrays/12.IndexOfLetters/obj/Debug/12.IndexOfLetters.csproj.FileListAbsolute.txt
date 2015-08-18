@@ -1,0 +1,5 @@
+D:\Downloads\TA\C#2\01.Arrays\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config
+D:\Downloads\TA\C#2\01.Arrays\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.pdb
+D:\Downloads\TA\C#2\01.Arrays\Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.exe
+D:\Downloads\TA\C#2\01.Arrays\Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.pdb

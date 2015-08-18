@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write functions for working with shapes in standard Planar coordinate system.
+     Points are represented by coordinates P(X, Y)
+     Lines are represented by two points, marking their beginning and ending L(P1(X1,Y1), P2(X2,Y2))
+     Calculate the distance between two points.
+     Check if three segment lines can form a triangle.*/
+    var pointA = createPoint(4, 5),
+        pointB = createPoint(5, 6),
+        pointC = createPoint(1, 3),
+        pointD = createPoint(1, 7),
+        pointE = createPoint(-4, 2),
+        pointF = createPoint(4, 2),
+        pointG = createPoint(1, 3),
+        pointH = createPoint(1, 8),
+        pointI = createPoint(0, 0),
+        pointJ = createPoint(0, 3);
+    console.log(pointA.distanceTo(pointB)); // 1.4142
+
+    var line1 = createLine(pointC, pointD); // length 4
+    var line2 = createLine(pointE, pointF); // length 8
+    var line3 = createLine(pointG, pointH); // length 5
+    var line4 = createLine(pointI, pointJ); // length 3
+
+    console.log(line1.canFormTriangle(line2, line3)); // true - can form triangle
+    console.log(line1.canFormTriangle(line2, line4)); // false - can form triangle
+
+    function createPoint(x, y){
+        return{
+            x: x,
+            y: y,
+            distanceTo: function(point){
+                var xDifference = this.x - point.x;
+                var yDifference = this.y - point.y;
+                return Math.sqrt((xDifference * xDifference) + (yDifference * yDifference));
+            }
+        }
+    }
+
+    function createLine(pointA, pointB){
+        return{
+            start: pointA,
+            end: pointB,
+            length: pointA.distanceTo(pointB),
+            canFormTriangle: function(line2, line3){
+                if (this.length > line2.length && this.length > line3.length) {
+                    return (this.length < (line2.length + line3.length))
+                } else if (line2.length > this.length && line2.length > line3.length) {
+                    return (line2.length < (this.length + line3.length))
+                } else {
+                    return (line3.length < (this.length + line2.length))
+                }
+            }
+        };
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a function for creating persons.
+     Each person must have firstname, lastname, age and gender (true is female, false is male)
+     Generate an array with ten person with different names, ages and genders*/
+
+    function createPerson(firstname, lastname, age, isFemale){
+        return {
+            firstname: firstname,
+            lastname: lastname,
+            age: age,
+            gender: isFemale,
+            toString: function () {
+                var printGender;
+                if (this.gender === true){
+                    printGender = 'female';
+                }
+                else{
+                    printGender = 'male';
+                }
+                console.log(this.firstname + ' ' + this.lastname + ', ' + this.age + ', ' + printGender);
+            }
+        };
+    }
+
+    var persons = [createPerson('John', 'Smith', 22, false),
+        createPerson('Kim', 'Gordon', 45, true),
+        createPerson('Jimmy', 'Page', 54, false),
+        createPerson('Diana', 'Ross', 67, true),
+        createPerson('Robert', 'Palmer', 33, false),
+        createPerson('Anna', 'Argilli', 18, true),
+        createPerson('Bob', 'Cabbage', 15, false),
+        createPerson('Helen', 'Rose', 22, true),
+        createPerson('Arthur', 'Clark', 25, false),
+        createPerson('Florence', 'Doll', 17, true)
+    ];
+
+    persons.forEach(function(person){
+        person.toString();
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a function that reverses the digits of given decimal number.*/
+
+    console.log(reverseNumber(256));
+    console.log(reverseNumber(123.45));
+
+    function reverseNumber(number){
+        var numberAsString = number.toString(),
+            length = numberAsString.length,
+            reversedString = '',
+                i;
+
+        for (i = length - 1; i >= 0; i -= 1){
+            reversedString += numberAsString[i];
+        }
+
+        return +reversedString;
+    }
+</script>
+</body>
+</html>

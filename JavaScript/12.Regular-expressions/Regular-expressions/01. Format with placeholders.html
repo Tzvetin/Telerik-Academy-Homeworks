@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a function that formats a string. The function should have placeholders, as shown in the example
+     Add the function to the String.prototype*/
+
+    String.prototype.format = function(options) {
+        var option,
+                regex,
+                formatted = this;
+        for (option in options) {
+            regex = new RegExp('#{' + option + '}', 'g');
+            if(options.hasOwnProperty(option)){
+            formatted = formatted.replace(regex, options[option]);
+            }
+        }
+        return formatted;
+    };
+
+    var options1 = {name: 'John'},
+            str1 = 'Hello, there! Are you #{name}?',
+            options2 = {name: 'John', age: 13},
+            str2 = 'My name is #{name} and I am #{age}-years-old';
+
+    console.log(str1.format(options1));
+    console.log(str2.format(options2));
+
+
+</script>
+</body>
+</html>

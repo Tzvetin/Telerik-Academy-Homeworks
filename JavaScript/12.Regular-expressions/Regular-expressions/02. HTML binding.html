@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a function that puts the value of an object into the content/attributes of HTML tags.
+     Add the function to the String.prototype*/
+
+    String.prototype.bind = function(params) {
+        var result;
+
+        // process content bind
+        result = this.replace(/ data-bind-content="(.*?)".*?>/g, function(match, bindName) {
+                    return match + params[bindName];
+                });
+
+        // process non-content binds
+        result = result.replace(/ data-bind-(.*?)="(.*?)"/g, function(match, bindType, bindName) {
+                    if (bindType === 'content') {
+                        return match;
+                    } else {
+                        return match + ' ' + bindType + '="' + params[bindName] + '"';
+                    }
+                });
+
+        return result;
+    };
+
+    var str1 = '<div data-bind-content="name"></div>',
+            str2 = '<a data-bind-content="name" data-bind-href="link" data-bind-class="name"></а>';
+
+    console.log(str1.bind({name: 'Steven'}));
+    console.log(str2.bind({name: 'Elena', link: 'http://telerikacademy.com'}));
+
+</script>
+</body>
+</html>

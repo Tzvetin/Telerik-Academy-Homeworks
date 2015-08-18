@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a function that groups an array of people by age, first or last name.
+     The function must return an associative array, with keys - the groups, and values - arrays with people in this groups
+     Use function overloading (i.e. just one function)*/
+
+    var people = [
+            { firstname : 'Gosho', lastname: 'Petrov', age: 32 },
+            { firstname : 'Bay', lastname: 'Ivan', age: 81},
+            { firstname: 'John', lastname: 'Smith', age: 16},
+            { firstname : 'Gosho', lastname: 'Ivanov', age: 16 }];
+
+    var groupedByFname = group(people, 'firstname');
+    console.log('BY FIRST NAME:')
+    console.log("----------------------------------")
+    printGroupedPeople(groupedByFname);
+
+    var groupedByAge = group(people, 'age');
+    console.log('BY AGE:')
+    console.log("----------------------------------")
+    printGroupedPeople(groupedByAge);
+
+    function group(people, prop) {
+        var groupedPeople = [];
+
+        for(var i = 0, len = people.length; i < len; i += 1){
+            if(!groupedPeople[people[i][prop]]) {
+                groupedPeople[people[i][prop]] = [];
+            }
+            groupedPeople[people[i][prop]].push(people[i]);
+        }
+
+        return groupedPeople;
+    }
+
+    function printGroupedPeople(groupedPeople) {
+        for (var group in groupedPeople) {
+            var peopleInGroup = groupedPeople[group];
+            for (var person in peopleInGroup) {
+                console.log(peopleInGroup[person].firstname + ' ' + peopleInGroup[person].lastname + ' Age: ' + peopleInGroup[person].age)
+            }
+            console.log("----------------------------------");
+        }
+    }
+</script>
+</body>
+</html>

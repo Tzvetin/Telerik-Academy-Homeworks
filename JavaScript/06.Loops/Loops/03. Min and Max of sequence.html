@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a script that finds the max and min number from a sequence of numbers.*/
+
+    var sequenceOfNumbers = [45, 12, -5, 33, -78];
+    var minIndex = 0;
+    var maxIndex = 0;
+    for (var i = 1; i < sequenceOfNumbers.length; i++){
+        if (sequenceOfNumbers[i] < sequenceOfNumbers[minIndex]){
+            minIndex = i;
+        }
+        if (sequenceOfNumbers[i] > sequenceOfNumbers[maxIndex]) {
+            maxIndex = i;
+        }
+    }
+    console.log('Max: ' + sequenceOfNumbers[maxIndex]);
+    console.log('Min: ' + sequenceOfNumbers[minIndex]);
+</script>
+</body>
+</html>

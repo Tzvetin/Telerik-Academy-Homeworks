@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*You are given a text. Write a function that changes the text in all regions:
+
+     <upcase>text</upcase> to uppercase.
+     <lowcase>text</lowcase> to lowercase
+     <mixcase>text</mixcase> to mix casing(random)*/
+
+    var text = 'We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>. ' +
+            'We <mixcase>don\'t</mixcase> have <lowcase>anything</lowcase> else.';
+    console.log(changeText(text));
+
+    function changeText(text){
+        var closingTagIndex = text.indexOf('</', 0);
+
+        while(closingTagIndex > -1){
+            var tagStart = text[closingTagIndex + 2];
+            switch(tagStart){
+                case 'u':
+                    text = transformText(text, '<upcase>', closingTagIndex);
+                    break;
+                case 'l':
+                    text = transformText(text, '<lowcase>', closingTagIndex);
+                    break;
+                case 'm':
+                    text = transformText(text, '<mixcase>', closingTagIndex);
+                    break;
+            }
+            closingTagIndex = text.indexOf('</', 0);
+        }
+        return text;
+    }
+
+    function transformText(text, tag, closingTagIndex){
+        var openingTagIndex = text.lastIndexOf(tag, closingTagIndex);
+        var textStart = text.substring(0, openingTagIndex);
+        var textInTag = executeTag(text.substring(openingTagIndex + tag.length, closingTagIndex), tag);
+        var textEnd = text.substring(closingTagIndex + tag.length + 1, text.length);
+        return textStart + textInTag + textEnd;
+    }
+
+    function executeTag(text, tag){
+        switch(tag){
+            case '<upcase>': return text.toUpperCase();
+            case '<lowcase>': return text.toLowerCase();
+            case '<mixcase>':
+                var mixedText = '',
+                        i,
+                        len = text.length;
+                for (i = 0; i < len; i += 1){
+                    if(Math.random()< 0.5){
+                        mixedText += text[i].toLowerCase();
+                    }
+                    else{
+                        mixedText += text[i].toUpperCase();
+                    }
+                }
+                return mixedText;
+        }
+    }
+</script>
+</body>
+</html>

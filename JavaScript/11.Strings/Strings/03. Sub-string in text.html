@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a JavaScript function that finds how many times a substring is contained in a given text
+    (perform case insensitive search).*/
+    var text = 'We are living in an yellow submarine. We don\'t have anything else. ' +
+            'inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.',
+        target = 'in';
+
+    function countOccurrences(text, target){
+            var count = 0,
+                    start = 0,
+                    len = target.length,
+                    lowerText = text.toLowerCase();
+        while(true){
+            start = lowerText.indexOf(target, start);
+            if (start < 0){
+                break;
+            }
+            count += 1;
+            start += len;
+        }
+        return count;
+    }
+    console.log(countOccurrences(text, target));
+</script>
+</body>
+</html>

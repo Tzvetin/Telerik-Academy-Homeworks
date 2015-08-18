@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a script that finds the most frequent number in an array.*/
+    mostFrequent([4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3]);
+
+    function mostFrequent(arr){
+        var i,
+            length = arr.length,
+            frequency = [],
+            maxIndex = -1,
+            maxFrequency = 0;
+
+        for(i = 0; i < length; i += 1){
+            if (frequency[arr[i]] == null){
+                frequency[arr[i]] = 1;
+            }
+            else{
+                frequency[arr[i]] += 1;
+            }
+            if(frequency[arr[i]] > maxFrequency){
+                maxFrequency = frequency[arr[i]];
+                maxIndex = i;
+            }
+        }
+        console.log(arr[maxIndex] + ' (' + maxFrequency + ' times)');
+    }
+</script>
+</body>
+</html>

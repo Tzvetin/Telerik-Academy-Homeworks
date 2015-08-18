@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a function that finds the youngest male person in a given array of people and prints his full name
+     Use only array methods and no regular loops (for, while)
+     Use Array#find*/
+
+    function createPerson(firstname, lastname, age, isFemale){
+        return {
+            firstname: firstname,
+            lastname: lastname,
+            age: age,
+            gender: isFemale,
+            toString: function () {
+                var printGender;
+                if (this.gender){
+                    printGender = 'female';
+                }
+                else{
+                    printGender = 'male';
+                }
+                console.log(this.firstname + ' ' + this.lastname + ', ' + this.age + ', ' + printGender);
+            }
+        };
+    }
+
+    var persons = [createPerson('John', 'Smith', 22, false),
+        createPerson('Kim', 'Gordon', 45, true),
+        createPerson('Jimmy', 'Page', 54, false),
+        createPerson('Diana', 'Ross', 67, true),
+        createPerson('Robert', 'Palmer', 33, false),
+        createPerson('Anna', 'Argilli', 18, true),
+        createPerson('Bob', 'Cabbage', 15, false),
+        createPerson('Helen', 'Rose', 22, true),
+        createPerson('Arthur', 'Clark', 25, false),
+        createPerson('Florence', 'Doll', 17, true)
+    ];
+
+    if (!Array.prototype.find) {
+        Array.prototype.find = function(callback) {
+            var i, len = this.length;
+            for (i = 0; i < len; i += 1) {
+                if (callback(this[i], i, this)) {
+                    return this[i];
+                }
+            }
+        };
+    }
+
+    var youngestMale =
+            persons.sort(function(a, b){
+                return a.age - b.age;
+            }).find(function(person){
+                return !person.gender;
+            });
+
+    youngestMale.toString();
+</script>
+</body>
+</html>

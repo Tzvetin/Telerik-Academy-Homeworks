@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a function that calculates the average age of all females, extracted from an array of persons
+     Use Array#filter
+     Use only array methods and no regular loops (for, while)*/
+
+    function createPerson(firstname, lastname, age, isFemale){
+        return {
+            firstname: firstname,
+            lastname: lastname,
+            age: age,
+            gender: isFemale
+        };
+    }
+
+    var persons = [createPerson('John', 'Smith', 22, false),
+        createPerson('Kim', 'Gordon', 45, true),
+        createPerson('Jimmy', 'Page', 54, false),
+        createPerson('Diana', 'Ross', 67, true),
+        createPerson('Robert', 'Palmer', 33, false),
+        createPerson('Anna', 'Argilli', 18, true),
+        createPerson('Bob', 'Cabbage', 15, false),
+        createPerson('Helen', 'Rose', 22, true),
+        createPerson('Arthur', 'Clark', 25, false),
+        createPerson('Florence', 'Doll', 17, true)
+    ];
+
+    var averageFemaleAge =
+    persons.filter(function(person){
+        return person.gender === true;
+    }).reduce(function(sum, person, i, array){
+        var count = array.length;
+        return(sum + person.age / count);
+    }, 0);
+
+    console.log(averageFemaleAge);
+</script>
+</body>
+</html>

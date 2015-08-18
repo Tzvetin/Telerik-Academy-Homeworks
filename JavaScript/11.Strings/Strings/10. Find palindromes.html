@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".*/
+
+    var text = 'ABBA and lamal are exe files. Hello, skinny puppy!';
+            var words = text.split(' '),
+            i,
+            len = words.length,
+            result = [];
+
+    for (i = 0; i < len; i += 1){
+        if (words[i] === reverseString(words[i])){
+            result.push(words[i]);
+        }
+    }
+    console.log(result.join(', '));
+
+    function reverseString(text){
+        var reversed = '',
+                len = text.length,
+                i;
+        for (i = len - 1; i >= 0; i -= 1){
+            reversed += text[i];
+        }
+        return reversed;
+    }
+</script>
+</body>
+</html>

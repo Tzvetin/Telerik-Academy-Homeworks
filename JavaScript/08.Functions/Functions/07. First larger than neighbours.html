@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a function that returns the index of the first element in array that is larger than its neighbours or -1, if there’s no such element.
+     Use the function from the previous exercise.*/
+
+    console.log(indexOfFirstBigger([1, 2, 3, 4, 5]));
+    console.log(indexOfFirstBigger([1, 2, 3, 4, -9]));
+
+    function indexOfFirstBigger(arr){
+        var i, length = arr.length;
+        for (i = 0; i < length; i += 1){
+            if (biggerThanNeighbours(arr, i)){
+                return i;
+            }
+        }
+        return -1;
+    }
+
+    function biggerThanNeighbours(arr, position){
+        var length = arr.length;
+        if (position < 0 || position > length - 1){
+            console.log('element out of range');
+        }
+        else if (position === 0 || position === length - 1){
+            console.log('border element');
+        }
+        else{
+            if (arr[position] > arr[position - 1] && arr[position] > arr[position + 1]){
+                console.log('element is bigger than its neighbours');
+                return true;
+            }
+            else{
+                console.log('element is not bigger than its neighbours');
+            }
+        }
+        return false;
+    }
+</script>
+</body>
+</html>

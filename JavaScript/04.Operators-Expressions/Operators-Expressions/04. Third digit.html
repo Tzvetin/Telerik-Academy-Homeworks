@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write an expression that checks for given integer if its third digit (right-to-left) is 7.*/
+
+    console.log(thirdDigitIsSeven(5));
+    console.log(thirdDigitIsSeven(701));
+    console.log(thirdDigitIsSeven(1732));
+    console.log(thirdDigitIsSeven(9703));
+    console.log(thirdDigitIsSeven(877));
+    console.log(thirdDigitIsSeven(777877));
+    console.log(thirdDigitIsSeven(9999799));
+
+    function thirdDigitIsSeven(number){
+    if(Math.floor(number / 100) % 10 ===7){
+            return true;
+    }
+            else{
+                return false;
+            }
+
+    }
+</script>
+</body>
+</html>

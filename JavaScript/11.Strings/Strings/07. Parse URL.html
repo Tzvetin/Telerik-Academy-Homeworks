@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a script that parses an URL address given in the format: [protocol]://[server]/[resource]
+    and extracts from it the [protocol], [server] and [resource] elements.
+     Return the elements in a JSON object.*/
+    var url = 'http://telerikacademy.com/Courses/Courses/Details/239';
+
+    console.log(parseURL(url));
+
+    function parseURL(url){
+        var protocol,
+                server,
+                resource,
+                protocolEnd,
+                serverEnd;
+        protocolEnd = url.indexOf('://', 0);
+        protocol = url.substring(0, protocolEnd);
+        serverEnd = url.indexOf('/', protocolEnd + 3);
+        server = url.substring(protocolEnd + 3, serverEnd);
+        resource = url.substring(serverEnd);
+
+        return {
+            protocol: protocol,
+            server: server,
+            resource: resource
+        };
+    }
+</script>
+</body>
+</html>

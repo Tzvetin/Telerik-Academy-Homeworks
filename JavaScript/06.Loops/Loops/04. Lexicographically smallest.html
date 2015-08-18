@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects.*/
+
+    LexCompare(document);
+    LexCompare(window);
+    LexCompare(navigator);
+
+    function LexCompare(element)
+    {
+        var firstIteration = true;
+        for (var prop in element) {
+            if (firstIteration) {
+                min = prop;
+                max = prop;
+                firstIteration = false;
+            }
+            if (prop < min) {
+                min = prop;
+            }
+            if (prop > max) {
+                max = prop;
+            }
+        }
+        console.log("Smallest Property in "+element+" is " + min);
+        console.log("Biggest Property in "+element+" is " + max);
+    }
+</script>
+</body>
+</html>

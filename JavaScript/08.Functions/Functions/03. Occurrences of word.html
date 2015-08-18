@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a function that finds all the occurrences of word in a text.
+     The search can be case sensitive or case insensitive.
+     Use function overloading.*/
+    var text = 'Overloading functions with different number of parameters is done by a simple switch by the length of the arguments. By By';
+    console.log(wordOccurrences(text, 'by'));
+    console.log(wordOccurrences(text, 'by', true));
+    console.log(wordOccurrences(text, 'by', false));
+
+    function wordOccurrences(text, word, isCaseSensitive){
+        var occurrences = 0,
+            currentIndex = 0;
+
+        switch (arguments.length) {
+            case 2 :
+                text = text.toLowerCase();
+                word = word.toLowerCase();
+                break;
+            case 3 :
+                if (!isCaseSensitive) {
+                text = text.toLowerCase();
+                word = word.toLowerCase();
+            }
+                break;
+        }
+
+        do{
+            currentIndex = text.indexOf(word, currentIndex);
+            if (currentIndex > -1){
+                occurrences += 1;
+                currentIndex += word.length;
+            }
+        } while (currentIndex > -1);
+
+        return occurrences;
+
+    }
+</script>
+</body>
+</html>

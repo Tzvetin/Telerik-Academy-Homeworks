@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a script that converts a number in the range [0…999] to words, corresponding to its English pronunciation.*/
+
+    console.log(numberAsWords(0));
+    console.log(numberAsWords(9));
+    console.log(numberAsWords(10));
+    console.log(numberAsWords(12));
+    console.log(numberAsWords(19));
+    console.log(numberAsWords(25));
+    console.log(numberAsWords(98));
+    console.log(numberAsWords(273));
+    console.log(numberAsWords(400));
+    console.log(numberAsWords(501));
+    console.log(numberAsWords(617));
+    console.log(numberAsWords(711));
+    console.log(numberAsWords(999));
+
+    function numberAsWords(number){
+        var numberAsText = "";
+        var hundreds = Math.floor(number / 100);
+        if(hundreds !== 0){
+            numberAsText += digitName(hundreds) + " hundred ";
+        }
+        var tens = Math.floor(number / 10);
+        tens = tens % 10;
+        if (tens > 1){
+            var tensAsText = tensName(tens);
+            if(hundreds > 0){
+                tensAsText = tensAsText.toLowerCase();
+            }
+            numberAsText += tensAsText;
+        }
+
+        var ones = number % 10;
+        if (hundreds === 0){
+            if(tens === 0)
+            {
+                numberAsText = digitName(ones);
+                if(ones === 0){
+                    numberAsText = "Zero";
+                }
+            }
+            else if(tens === 1){
+                numberAsText = elevenToNineteenName(ones);
+            }
+            else if(ones !== 0){
+                numberAsText += " " + digitName(ones).toLowerCase();
+            }
+        }
+        else{
+            if(tens === 0){
+                if(ones !== 0){
+                    numberAsText+= " and " + digitName(ones).toLowerCase();
+                }
+            }
+            else if(tens === 1){
+                numberAsText += " and " + elevenToNineteenName(ones).toLowerCase();
+            }
+            else {
+                numberAsText += " " + digitName(ones).toLowerCase();
+            }
+        }
+        return numberAsText;
+    }
+
+    function digitName(digit){
+        var digitName;
+        switch(digit){
+            case 1: digitName="One"; break;
+            case 2: digitName="Two"; break;
+            case 3: digitName="Three"; break;
+            case 4: digitName="Four"; break;
+            case 5: digitName="Five"; break;
+            case 6: digitName="Six"; break;
+            case 7: digitName="Seven"; break;
+            case 8: digitName="Eight"; break;
+            case 9: digitName="Nine"; break;
+            default: digitName=""; break;
+        }
+        return digitName;
+    }
+    function tensName(digit) {
+        var digitName;
+        switch (digit) {
+            case 2: digitName = "Twenty"; break;
+            case 3: digitName = "Thirty"; break;
+            case 4: digitName = "Forty"; break;
+            case 5: digitName = "Fifty"; break;
+            case 6: digitName = "Sixty"; break;
+            case 7: digitName = "Seventy"; break;
+            case 8: digitName = "Eighty"; break;
+            case 9: digitName = "Ninety"; break;
+            default: digitName = ""; break;
+        }
+        return digitName;
+    }
+    function elevenToNineteenName(digit) {
+        var digitName;
+        switch (digit) {
+            case 0: digitName = "Ten"; break;
+            case 1: digitName = "Eleven"; break;
+            case 2: digitName = "Twelve"; break;
+            case 3: digitName = "Thirteen"; break;
+            case 4: digitName = "Fourteen"; break;
+            case 5: digitName = "Fifteen"; break;
+            case 6: digitName = "Sixteen"; break;
+            case 7: digitName = "Seventeen"; break;
+            case 8: digitName = "Eighteen"; break;
+            case 9: digitName = "Nineteen"; break;
+            default: digitName = ""; break;
+        }
+        return digitName;
+    }
+</script>
+</body>
+</html>

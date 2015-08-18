@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a function that checks if a given object contains a given property.*/
+    var obj  = {name: 'line one', length: 22},
+            anotherObj = {name: 'line two', color: 'green'};
+
+    console.log(hasProperty(obj, 'length'));
+    console.log(hasProperty(anotherObj, 'length'));
+
+    function hasProperty(obj, prop){
+        for (var property in obj){
+            if(property === prop){
+            return true;
+            }
+        }
+        return false;
+    }
+
+</script>
+</body>
+</html>

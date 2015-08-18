@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a boolean expression that checks for given integer if it can be divided (without remainder) by 7 and 5 in the same time.*/
+
+    console.log(isDivisable(3));
+    console.log(isDivisable(0));
+    console.log(isDivisable(5));
+    console.log(isDivisable(7));
+    console.log(isDivisable(35));
+    console.log(isDivisable(140));
+
+    function isDivisable(number){
+        if(number % 5 === 0 && number % 7 === 0){
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
+</script>
+</body>
+</html>

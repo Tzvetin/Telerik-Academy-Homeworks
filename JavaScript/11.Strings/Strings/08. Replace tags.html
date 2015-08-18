@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a JavaScript function that replaces in a HTML document given as string
+    all the tags <a href="…">…</a> with corresponding tags [URL=…]…/URL].*/
+
+    var text = '<p>Please visit <a href="http://academy.telerik.com">our site</a> to choose a training course. Also visit <a href="www.devbg.org">our forum</a> to discuss the courses.</p>';
+
+    console.log(replaceTag(text));
+
+    function replaceTag(text) {
+        var tagStart,
+                tagEnd,
+                output='',
+                tagContent;
+
+        tagStart = text.indexOf('<a', 0);
+        tagEnd = 0;
+
+        while (tagStart > -1) {
+            output += text.substring(tagEnd, tagStart);
+            tagEnd = text.indexOf('>', tagStart);
+            tagContent = text.substring(tagStart+9, tagEnd-1); // doesn't account for multiple whitespaces
+            output += '[URL=' + tagContent + ']';
+
+            tagStart=text.indexOf('</a>',tagEnd+1);
+            tagContent = text.substring(tagEnd + 1, tagStart);
+            output += tagContent+'[/URL]';
+            tagEnd = tagStart + 4;
+            tagStart = text.indexOf('<a', tagEnd);
+        }
+        output += text.substr(tagEnd);
+        return output;
+    }
+</script>
+</body>
+</html>

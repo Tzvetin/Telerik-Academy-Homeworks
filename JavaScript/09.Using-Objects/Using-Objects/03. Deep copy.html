@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a function that makes a deep copy of an object.
+     The function should work for both primitive and reference types.*/
+
+    function deepCopy(obj){
+        if (obj === null || typeof obj !== 'object'){
+            return obj;
+        }
+        var copy = {};
+        for (var property in obj){
+            copy[property] = deepCopy(obj[property]);
+        }
+        return copy;
+    }
+
+    console.log(deepCopy(45));
+    console.log(deepCopy('nice'));
+    console.log(deepCopy());
+    console.log(deepCopy({name: 'Pesho', age: 25}));
+
+</script>
+</body>
+</html>

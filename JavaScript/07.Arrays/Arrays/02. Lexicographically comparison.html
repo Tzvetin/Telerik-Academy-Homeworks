@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a script that compares two char arrays lexicographically (letter by letter).*/
+
+    compareCharArrays(['a', 'b', 'c'], ['a', 'b', 'c']);
+    compareCharArrays(['a', 'b', 'c'], ['a', 'b', 'c', 'd']);
+    compareCharArrays(['a', 'b', 'c', 'd'], ['a', 'b', 'c']);
+    compareCharArrays(['a', 'c', 'c'], ['a', 'b', 'c']);
+    compareCharArrays(['a', 'b', 'c'], ['z', 'b', 'c']);
+
+    function compareCharArrays(arr1, arr2){
+        var i,
+            length = Math.min(arr1.length, arr2.length),
+            result;
+
+        for (i = 0; i < length; i += 1){
+            result = compareChars(arr1[i], arr2[i]);
+            if (result < 0){
+                console.log('The second char array is after the first char array');
+                return;
+            }
+            if (result > 0){
+                console.log('The first char array is after the second char array');
+                return;
+            }
+        }
+        if (arr1.length < arr2.length){
+            console.log('The second char array is after the first char array');
+        }
+        else if (arr1.length > arr2.length){
+            console.log('The first char array is after the second char array');
+        }
+        else{
+            console.log('The char arrays are equal');
+        }
+    }
+
+    function compareChars(a, b){
+        if (a === b){
+            return 0;
+        }
+        else if(a < b){
+            return -1;
+        }
+        else {
+            return 1;
+        }
+}
+</script>
+</body>
+</html>

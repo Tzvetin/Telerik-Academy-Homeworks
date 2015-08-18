@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    /*Write a script that finds the greatest of given 5 variables.
+     Use nested if statements.*/
+
+    console.log(biggestOfFiveNumbers(5, 2, 2, 4, 1));
+    console.log(biggestOfFiveNumbers(-2, -22, 1, 0, 0));
+    console.log(biggestOfFiveNumbers(-2, 4, 3, 2, 0));
+    console.log(biggestOfFiveNumbers(0, -2.5, 0, 5, 5));
+    console.log(biggestOfFiveNumbers(-3, -0.5, -1.1, -2, -0.1));
+
+    function biggestOfFiveNumbers(a, b, c, d, e){
+        var biggest = a;
+        if (b > biggest){
+            biggest = b;
+        }
+        if (c > biggest) {
+            biggest = c;
+        }
+        if (d > biggest) {
+            biggest = d;
+        }
+        if (e > biggest) {
+            biggest = e;
+        }
+        return biggest;
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,811 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.RunResult",
+  "__value": {
+    "IsComplete": true,
+    "Name": "BookStoreTestList",
+    "StartTime": "2015-12-03T15:39:50",
+    "EndTime": "2015-12-03T15:40:51.5706127Z",
+    "DataCollectors": {},
+    "TestResults": [
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestResult",
+        "__value": {
+          "Browser": 1,
+          "ExeType": 5,
+          "SeparatorLineCharCount": 60,
+          "Message": "Overall Result: Pass\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:39:50 ч.' - Executing test: 'BookStore1', path: 'BookStore1.tstest.'\r\n'3.12.2015 г. 17:39:50 ч.' - Using .Net Runtime version: '4.0.30319.42000' for test execution. Build version is '2015.3.1015.0'.\r\n'3.12.2015 г. 17:39:50 ч.' - Starting execution....\r\n------------------------------------------------------------\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:39:57 ч.' - Using 'InternetExplorer' version '11.0' as default browser. \r\n'3.12.2015 г. 17:40:03 ч.' - 'Pass' : 1. Navigate to : 'http://www.book.store.bg'\r\n'3.12.2015 г. 17:40:03 ч.' - 'Pass' : 2. Enter text 'JavaScript' in 'SrchstrText'\r\n'3.12.2015 г. 17:40:07 ч.' - 'Pass' : 3. Click 'Submit'\r\n'3.12.2015 г. 17:40:07 ч.' - 'Pass' : 4. Verify 'TextContent' 'Contains' 'JavaScript' on 'JavaScriptBTag'\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:07 ч.' - Overall Result: Pass\r\n'3.12.2015 г. 17:40:07 ч.' - Duration: [0 min: 9 sec: 833 msec]\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:09 ч.' - Test completed!\r\n",
+          "FailureException": null,
+          "Result": 0,
+          "TestId": "6f59e89f-44de-4db6-bac1-daa151776a49",
+          "TestName": "BookStore1",
+          "TestPath": "BookStore1.tstest",
+          "TestOwner": null,
+          "TestDescription": "",
+          "ProjectPath": "",
+          "StepResults": [
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore1",
+                "TestPath": "BookStore1.tstest",
+                "TestId": "6f59e89f-44de-4db6-bac1-daa151776a49",
+                "TestStepIndex": 0,
+                "StepDescription": "Navigate to : 'http://www.book.store.bg'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 1,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 1347723234,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore1",
+                "TestPath": "BookStore1.tstest",
+                "TestId": "6f59e89f-44de-4db6-bac1-daa151776a49",
+                "TestStepIndex": 1,
+                "StepDescription": "Enter text 'JavaScript' in 'SrchstrText'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 2,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 1106498604,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore1",
+                "TestPath": "BookStore1.tstest",
+                "TestId": "6f59e89f-44de-4db6-bac1-daa151776a49",
+                "TestStepIndex": 2,
+                "StepDescription": "Click 'Submit'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 3,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 2087960562,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore1",
+                "TestPath": "BookStore1.tstest",
+                "TestId": "6f59e89f-44de-4db6-bac1-daa151776a49",
+                "TestStepIndex": 3,
+                "StepDescription": "Verify 'TextContent' 'Contains' 'JavaScript' on 'JavaScriptBTag'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 4,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": -1313506170,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            }
+          ],
+          "NotRunStepDescriptions": [],
+          "TotalPassedSteps": 4,
+          "ExecutingTestStepCount": 4,
+          "TotalNumberOfNotRunSteps": 0,
+          "IsDataDrivenResult": false,
+          "DataIterationResults": [],
+          "EndTime": "2015-12-03T15:40:07.6210989Z",
+          "StartTime": "2015-12-03T15:39:57.7875365Z",
+          "ProfilerResultsPath": null,
+          "VersionGroupKey": "00000000-0000-0000-0000-000000000000",
+          "CommitedBy": null
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestResult",
+        "__value": {
+          "Browser": 1,
+          "ExeType": 5,
+          "SeparatorLineCharCount": 60,
+          "Message": "Overall Result: Pass\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:09 ч.' - Executing test: 'BookStore2', path: 'BookStore2.tstest.'\r\n'3.12.2015 г. 17:40:09 ч.' - Using .Net Runtime version: '4.0.30319.42000' for test execution. Build version is '2015.3.1015.0'.\r\n'3.12.2015 г. 17:40:09 ч.' - Starting execution....\r\n------------------------------------------------------------\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:11 ч.' - Using 'InternetExplorer' version '11.0' as default browser. \r\n'3.12.2015 г. 17:40:14 ч.' - 'Pass' : 1. Navigate to : 'http://www.book.store.bg'\r\n'3.12.2015 г. 17:40:15 ч.' - 'Pass' : 2. Enter text 'JavaScript' in 'SrchstrText'\r\n'3.12.2015 г. 17:40:18 ч.' - 'Pass' : 3. Click 'Submit'\r\n'3.12.2015 г. 17:40:18 ч.' - 'Pass' : 4. Verify 'ТърсиВъвBTag' is enabled\r\n'3.12.2015 г. 17:40:18 ч.' - 'Pass' : 5. Click 'SinRadio'\r\n'3.12.2015 г. 17:40:21 ч.' - 'Pass' : 6. Click 'Submit'\r\n'3.12.2015 г. 17:40:21 ч.' - 'Pass' : 7. Verify 'ТърсиСамоВBTag' is enabled\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:21 ч.' - Overall Result: Pass\r\n'3.12.2015 г. 17:40:21 ч.' - Duration: [0 min: 10 sec: 536 msec]\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:22 ч.' - Test completed!\r\n",
+          "FailureException": null,
+          "Result": 0,
+          "TestId": "4ad748c3-7115-472e-9444-0156b4bcec00",
+          "TestName": "BookStore2",
+          "TestPath": "BookStore2.tstest",
+          "TestOwner": null,
+          "TestDescription": "",
+          "ProjectPath": "",
+          "StepResults": [
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore2",
+                "TestPath": "BookStore2.tstest",
+                "TestId": "4ad748c3-7115-472e-9444-0156b4bcec00",
+                "TestStepIndex": 0,
+                "StepDescription": "Navigate to : 'http://www.book.store.bg'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 1,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 1347723234,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore2",
+                "TestPath": "BookStore2.tstest",
+                "TestId": "4ad748c3-7115-472e-9444-0156b4bcec00",
+                "TestStepIndex": 1,
+                "StepDescription": "Enter text 'JavaScript' in 'SrchstrText'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 2,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 1106498604,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore2",
+                "TestPath": "BookStore2.tstest",
+                "TestId": "4ad748c3-7115-472e-9444-0156b4bcec00",
+                "TestStepIndex": 2,
+                "StepDescription": "Click 'Submit'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 3,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 2087960562,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore2",
+                "TestPath": "BookStore2.tstest",
+                "TestId": "4ad748c3-7115-472e-9444-0156b4bcec00",
+                "TestStepIndex": 3,
+                "StepDescription": "Verify 'ТърсиВъвBTag' is enabled",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 4,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": -795681699,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore2",
+                "TestPath": "BookStore2.tstest",
+                "TestId": "4ad748c3-7115-472e-9444-0156b4bcec00",
+                "TestStepIndex": 4,
+                "StepDescription": "Click 'SinRadio'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 5,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 2087960564,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore2",
+                "TestPath": "BookStore2.tstest",
+                "TestId": "4ad748c3-7115-472e-9444-0156b4bcec00",
+                "TestStepIndex": 5,
+                "StepDescription": "Click 'Submit'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 6,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 2087960565,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore2",
+                "TestPath": "BookStore2.tstest",
+                "TestId": "4ad748c3-7115-472e-9444-0156b4bcec00",
+                "TestStepIndex": 6,
+                "StepDescription": "Verify 'ТърсиСамоВBTag' is enabled",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 7,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": -795681696,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            }
+          ],
+          "NotRunStepDescriptions": [],
+          "TotalPassedSteps": 7,
+          "ExecutingTestStepCount": 7,
+          "TotalNumberOfNotRunSteps": 0,
+          "IsDataDrivenResult": false,
+          "DataIterationResults": [],
+          "EndTime": "2015-12-03T15:40:21.9819203Z",
+          "StartTime": "2015-12-03T15:40:11.4453176Z",
+          "ProfilerResultsPath": null,
+          "VersionGroupKey": "00000000-0000-0000-0000-000000000000",
+          "CommitedBy": null
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestResult",
+        "__value": {
+          "Browser": 1,
+          "ExeType": 5,
+          "SeparatorLineCharCount": 60,
+          "Message": "Overall Result: Pass\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:23 ч.' - Executing test: 'BookStore3', path: 'BookStore3.tstest.'\r\n'3.12.2015 г. 17:40:23 ч.' - Using .Net Runtime version: '4.0.30319.42000' for test execution. Build version is '2015.3.1015.0'.\r\n'3.12.2015 г. 17:40:23 ч.' - Starting execution....\r\n------------------------------------------------------------\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:25 ч.' - Enabling Html Popup Tracker. Test expecting Popups.\r\n'3.12.2015 г. 17:40:25 ч.' - Using 'InternetExplorer' version '11.0' as default browser. \r\n'3.12.2015 г. 17:40:27 ч.' - 'Pass' : 1. Navigate to : 'http://www.book.store.bg'\r\n'3.12.2015 г. 17:40:28 ч.' - 'Pass' : 2. Enter text 'JavaScript' in 'SrchstrText'\r\n'3.12.2015 г. 17:40:28 ч.' - 'Pass' : 3. Verify 'ВсичкиРазделиLabelTag' is enabled\r\n'3.12.2015 г. 17:40:28 ч.' - 'Pass' : 4. Click 'СамоВКнигитеLABELTag'\r\n'3.12.2015 г. 17:40:32 ч.' - 'Pass' : 5. Click 'Submit'\r\n'3.12.2015 г. 17:40:32 ч.' - 'Pass' : 6. Verify 'TextContent' 'Contains' 'JavaScript' on 'JavaScriptH3Tag'\r\n'3.12.2015 г. 17:40:32 ч.' - 'Pass' : 7. Extract 'TextContent' on 'JavaScriptH3Tag' into DataBindVariable $(bookTitle)\r\n'3.12.2015 г. 17:40:34 ч.' - 'Pass' : 8. Click 'JavaScriptH3Tag'\r\n'3.12.2015 г. 17:40:34 ч.' - 'Pass' : 9. Wait for Exists 'ЩракнетеТукLink'\r\n'3.12.2015 г. 17:40:35 ч.' - 'Pass' : 10. Click 'ЩракнетеТукLink'\r\n'3.12.2015 г. 17:40:37 ч.' - 'Pass' : 11. Connect to pop-up window : 'http://www.book.store.bg/cgi-bin/pp-page.cgi?p=delivery_price&productid=61454'\r\n'3.12.2015 г. 17:40:37 ч.' - 'Pass' : 12. Verify 'TextContent' 'Contains' '' on 'ЦенаЗаBTag' - DataDriven: [$(bookTitle)]\r\n'3.12.2015 г. 17:40:40 ч.' - 'Pass' : 13. Close pop-up window : 'http://www.book.store.bg/cgi-bin/pp-page.cgi?p=delivery_price&productid=61454'\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:40 ч.' - Overall Result: Pass\r\n'3.12.2015 г. 17:40:40 ч.' - Duration: [0 min: 15 sec: 114 msec]\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:41 ч.' - Test completed!\r\n",
+          "FailureException": null,
+          "Result": 0,
+          "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+          "TestName": "BookStore3",
+          "TestPath": "BookStore3.tstest",
+          "TestOwner": null,
+          "TestDescription": "",
+          "ProjectPath": "",
+          "StepResults": [
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 0,
+                "StepDescription": "Navigate to : 'http://www.book.store.bg'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 1,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 1347723234,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 1,
+                "StepDescription": "Enter text 'JavaScript' in 'SrchstrText'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 2,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 1106498604,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 2,
+                "StepDescription": "Verify 'ВсичкиРазделиLabelTag' is enabled",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 3,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": -795681700,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 3,
+                "StepDescription": "Click 'СамоВКнигитеLABELTag'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 4,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 2087960563,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 4,
+                "StepDescription": "Click 'Submit'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 5,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 2087960564,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 5,
+                "StepDescription": "Verify 'TextContent' 'Contains' 'JavaScript' on 'JavaScriptH3Tag'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 6,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": -1313506168,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 6,
+                "StepDescription": "Extract 'TextContent' on 'JavaScriptH3Tag' into DataBindVariable $(bookTitle)",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 7,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": -1313506167,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 7,
+                "StepDescription": "Click 'JavaScriptH3Tag'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 8,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 2087960567,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 8,
+                "StepDescription": "Wait for Exists 'ЩракнетеТукLink'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 9,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": -898084782,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 9,
+                "StepDescription": "Click 'ЩракнетеТукLink'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 10,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 2087960569,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 10,
+                "StepDescription": "Connect to pop-up window : 'http://www.book.store.bg/cgi-bin/pp-page.cgi?p=delivery_price&productid=61454'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 11,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 512605115,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 11,
+                "StepDescription": "Verify 'TextContent' 'Contains' '' on 'ЦенаЗаBTag' - DataDriven: [$(bookTitle)]",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 12,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": -1313506162,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore3",
+                "TestPath": "BookStore3.tstest",
+                "TestId": "42d6fa65-af9c-4ca5-80ed-cf6641b0c550",
+                "TestStepIndex": 12,
+                "StepDescription": "Close pop-up window : 'http://www.book.store.bg/cgi-bin/pp-page.cgi?p=delivery_price&productid=61454'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 13,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 512605117,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            }
+          ],
+          "NotRunStepDescriptions": [],
+          "TotalPassedSteps": 13,
+          "ExecutingTestStepCount": 13,
+          "TotalNumberOfNotRunSteps": 0,
+          "IsDataDrivenResult": false,
+          "DataIterationResults": [],
+          "EndTime": "2015-12-03T15:40:40.2929676Z",
+          "StartTime": "2015-12-03T15:40:25.1781031Z",
+          "ProfilerResultsPath": null,
+          "VersionGroupKey": "00000000-0000-0000-0000-000000000000",
+          "CommitedBy": null
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestResult",
+        "__value": {
+          "Browser": 1,
+          "ExeType": 5,
+          "SeparatorLineCharCount": 60,
+          "Message": "Overall Result: Pass\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:41 ч.' - Executing test: 'BookStore4', path: 'BookStore4.tstest.'\r\n'3.12.2015 г. 17:40:41 ч.' - Using .Net Runtime version: '4.0.30319.42000' for test execution. Build version is '2015.3.1015.0'.\r\n'3.12.2015 г. 17:40:41 ч.' - Starting execution....\r\n------------------------------------------------------------\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:43 ч.' - Using 'InternetExplorer' version '11.0' as default browser. \r\n'3.12.2015 г. 17:40:46 ч.' - 'Pass' : 1. Navigate to : 'http://www.book.store.bg'\r\n'3.12.2015 г. 17:40:46 ч.' - 'NotRun' : 2. Verify 'ВсичкиРазделиLabelTag' is enabled\r\n'3.12.2015 г. 17:40:50 ч.' - 'Pass' : 3. IF (Verify 'ВсичкиРазделиLabelTag' is enabled)\r\nLogical step encountered. Executing branch => IF (Verify 'ВсичкиРазделиLabelTag' is enabled):\r\n------------------------------------------------------------\r\nCondition Evaluation Details:\r\n\r\nParameters:\r\n-----------\r\nIsEnabled       = Expected:[True] , Actual:[True]\r\n\r\n------------------------------------------------------------\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:46 ч.' - Using 'InternetExplorer' version '11.0' as default browser. \r\n'3.12.2015 г. 17:40:47 ч.' - 'Pass' : 4. Enter text 'Melanie delon' in 'SrchstrText'\r\n'3.12.2015 г. 17:40:50 ч.' - 'Pass' : 5. Click 'Submit'\r\n'3.12.2015 г. 17:40:50 ч.' - 'Pass' : 6. Verify 'TextContent' 'Contains' 'Melanie delon' on 'MelanieDelonBTag'\r\n\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:50 ч.' - Overall Result: Pass\r\n'3.12.2015 г. 17:40:50 ч.' - Duration: [0 min: 6 sec: 927 msec]\r\n------------------------------------------------------------\r\n'3.12.2015 г. 17:40:51 ч.' - Test completed!\r\n",
+          "FailureException": null,
+          "Result": 0,
+          "TestId": "d2053652-0697-4cfd-ae69-932d6a0d839e",
+          "TestName": "BookStore4",
+          "TestPath": "BookStore4.tstest",
+          "TestOwner": null,
+          "TestDescription": "",
+          "ProjectPath": "",
+          "StepResults": [
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore4",
+                "TestPath": "BookStore4.tstest",
+                "TestId": "d2053652-0697-4cfd-ae69-932d6a0d839e",
+                "TestStepIndex": 0,
+                "StepDescription": "Navigate to : 'http://www.book.store.bg'",
+                "Exception": null,
+                "ResultType": 0,
+                "State": null,
+                "Order": 1,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": 1347723234,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+              "__value": {
+                "TestName": "BookStore4",
+                "TestPath": "BookStore4.tstest",
+                "TestId": "d2053652-0697-4cfd-ae69-932d6a0d839e",
+                "TestStepIndex": 1,
+                "StepDescription": "Verify 'ВсичкиРазделиLabelTag' is enabled",
+                "Exception": null,
+                "ResultType": 2,
+                "State": null,
+                "Order": 2,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": -795681701,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            },
+            {
+              "__type": "ArtOfTest.WebAii.Design.Execution.LogicalStepResult",
+              "__value": {
+                "InnerResult": {
+                  "__type": "ArtOfTest.WebAii.Design.Execution.TestResult",
+                  "__value": {
+                    "Browser": 0,
+                    "ExeType": 5,
+                    "SeparatorLineCharCount": 60,
+                    "Message": "------------------------------------------------------------\r\n'3.12.2015 г. 17:40:46 ч.' - Using 'InternetExplorer' version '11.0' as default browser. \r\n'3.12.2015 г. 17:40:47 ч.' - 'Pass' : 4. Enter text 'Melanie delon' in 'SrchstrText'\r\n'3.12.2015 г. 17:40:50 ч.' - 'Pass' : 5. Click 'Submit'\r\n'3.12.2015 г. 17:40:50 ч.' - 'Pass' : 6. Verify 'TextContent' 'Contains' 'Melanie delon' on 'MelanieDelonBTag'\r\n",
+                    "FailureException": null,
+                    "Result": 0,
+                    "TestId": "d2053652-0697-4cfd-ae69-932d6a0d839e",
+                    "TestName": "",
+                    "TestPath": null,
+                    "TestOwner": "",
+                    "TestDescription": "",
+                    "ProjectPath": "",
+                    "StepResults": [
+                      {
+                        "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+                        "__value": {
+                          "TestName": "BookStore4",
+                          "TestPath": "BookStore4.tstest",
+                          "TestId": "d2053652-0697-4cfd-ae69-932d6a0d839e",
+                          "TestStepIndex": 0,
+                          "StepDescription": "Enter text 'Melanie delon' in 'SrchstrText'",
+                          "Exception": null,
+                          "ResultType": 0,
+                          "State": null,
+                          "Order": 4,
+                          "LogMessageOnError": "",
+                          "UserComment": null,
+                          "HashCode": 1106498603,
+                          "IsManual": false,
+                          "WasStepEnabled": false
+                        }
+                      },
+                      {
+                        "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+                        "__value": {
+                          "TestName": "BookStore4",
+                          "TestPath": "BookStore4.tstest",
+                          "TestId": "d2053652-0697-4cfd-ae69-932d6a0d839e",
+                          "TestStepIndex": 1,
+                          "StepDescription": "Click 'Submit'",
+                          "Exception": null,
+                          "ResultType": 0,
+                          "State": null,
+                          "Order": 5,
+                          "LogMessageOnError": "",
+                          "UserComment": null,
+                          "HashCode": 2087960561,
+                          "IsManual": false,
+                          "WasStepEnabled": false
+                        }
+                      },
+                      {
+                        "__type": "ArtOfTest.WebAii.Design.AutomationStepResult",
+                        "__value": {
+                          "TestName": "BookStore4",
+                          "TestPath": "BookStore4.tstest",
+                          "TestId": "d2053652-0697-4cfd-ae69-932d6a0d839e",
+                          "TestStepIndex": 2,
+                          "StepDescription": "Verify 'TextContent' 'Contains' 'Melanie delon' on 'MelanieDelonBTag'",
+                          "Exception": null,
+                          "ResultType": 0,
+                          "State": null,
+                          "Order": 6,
+                          "LogMessageOnError": "",
+                          "UserComment": null,
+                          "HashCode": -1313506171,
+                          "IsManual": false,
+                          "WasStepEnabled": false
+                        }
+                      }
+                    ],
+                    "NotRunStepDescriptions": [],
+                    "TotalPassedSteps": 3,
+                    "ExecutingTestStepCount": 3,
+                    "TotalNumberOfNotRunSteps": 0,
+                    "IsDataDrivenResult": false,
+                    "DataIterationResults": [],
+                    "EndTime": "2015-12-03T15:40:46.6843332Z",
+                    "StartTime": "2015-12-03T15:40:46.6843332Z",
+                    "ProfilerResultsPath": null,
+                    "VersionGroupKey": "00000000-0000-0000-0000-000000000000",
+                    "CommitedBy": null
+                  }
+                },
+                "ChildResult": {
+                  "__type": "ArtOfTest.WebAii.Design.Execution.TestResult",
+                  "__value": {
+                    "Browser": 0,
+                    "ExeType": 5,
+                    "SeparatorLineCharCount": 60,
+                    "Message": "",
+                    "FailureException": null,
+                    "Result": 2,
+                    "TestId": "d2053652-0697-4cfd-ae69-932d6a0d839e",
+                    "TestName": "BookStore4",
+                    "TestPath": "BookStore4.tstest",
+                    "TestOwner": null,
+                    "TestDescription": "",
+                    "ProjectPath": "",
+                    "StepResults": [],
+                    "NotRunStepDescriptions": [
+                      "Navigate to : 'http://www.book.store.bg'",
+                      "Verify 'ВсичкиРазделиLabelTag' is enabled",
+                      "IF (Verify 'ВсичкиРазделиLabelTag' is enabled)"
+                    ],
+                    "TotalPassedSteps": 0,
+                    "ExecutingTestStepCount": 0,
+                    "TotalNumberOfNotRunSteps": 0,
+                    "IsDataDrivenResult": false,
+                    "DataIterationResults": [],
+                    "EndTime": "2015-12-03T15:40:46.6843332Z",
+                    "StartTime": "2015-12-03T15:40:46.6843332Z",
+                    "ProfilerResultsPath": null,
+                    "VersionGroupKey": "00000000-0000-0000-0000-000000000000",
+                    "CommitedBy": null
+                  }
+                },
+                "LogicDetails": "Condition Evaluation Details:\r\n\r\nParameters:\r\n-----------\r\nIsEnabled       = Expected:[True] , Actual:[True]\r\n",
+                "LoopIteration": 1,
+                "IsLoop": false,
+                "Exception": null,
+                "TestName": "BookStore4",
+                "TestPath": "BookStore4.tstest",
+                "TestId": "d2053652-0697-4cfd-ae69-932d6a0d839e",
+                "TestStepIndex": 2,
+                "StepDescription": "IF (Verify 'ВсичкиРазделиLabelTag' is enabled)",
+                "ResultType": 0,
+                "State": null,
+                "Order": 3,
+                "LogMessageOnError": "",
+                "UserComment": null,
+                "HashCode": -206396959,
+                "IsManual": false,
+                "WasStepEnabled": false
+              }
+            }
+          ],
+          "NotRunStepDescriptions": [],
+          "TotalPassedSteps": 2,
+          "ExecutingTestStepCount": 2,
+          "TotalNumberOfNotRunSteps": 1,
+          "IsDataDrivenResult": false,
+          "DataIterationResults": [],
+          "EndTime": "2015-12-03T15:40:50.5025516Z",
+          "StartTime": "2015-12-03T15:40:43.5751554Z",
+          "ProfilerResultsPath": null,
+          "VersionGroupKey": "00000000-0000-0000-0000-000000000000",
+          "CommitedBy": null
+        }
+      }
+    ],
+    "FileName": "BookStoreTestList 130936308515796132",
+    "Id": "3d27fb83-2f4c-4cd0-89f5-e780678dd056",
+    "Machine": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Scheduling.Machine",
+      "__value": {
+        "Id": "00000000-0000-0000-0000-000000000000",
+        "NetworkName": "USER-PC",
+        "OperatingSystem": "Windows 7",
+        "InstalledBrowsers": [
+          {
+            "__type": "ArtOfTest.WebAii.Design.Execution.Scheduling.BrowserInformation",
+            "__value": {
+              "Type": 1,
+              "Version": "9.11.9600.17728"
+            }
+          },
+          {
+            "__type": "ArtOfTest.WebAii.Design.Execution.Scheduling.BrowserInformation",
+            "__value": {
+              "Type": 2,
+              "Version": "42.0 (x86 en-US)"
+            }
+          },
+          {
+            "__type": "ArtOfTest.WebAii.Design.Execution.Scheduling.BrowserInformation",
+            "__value": {
+              "Type": 7,
+              "Version": ""
+            }
+          }
+        ],
+        "Status": 0,
+        "ServiceUri": null,
+        "DBState": 0,
+        "UserName": "user"
+      }
+    },
+    "Messages": null,
+    "RunId": "3d27fb83-2f4c-4cd0-89f5-e780678dd056",
+    "Comment": null,
+    "TestListId": "b8ee2f6e-7a31-4bbe-9b65-f601ebce6829",
+    "IsManual": false,
+    "DispatchGroupId": "00000000-0000-0000-0000-000000000000"
+  }
+}
